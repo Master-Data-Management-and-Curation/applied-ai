@@ -5,13 +5,18 @@ In this hands-on course, students will work in groups to develop a comprehensive
 Key Project Components:
 
 **Repository Development**: Students will create a repository to document their code, data structures, and workflow, ensuring transparency and reproducibility.
+
 **Python Programming**: Building on previous coursework, students will write Python code from scratch to develop their solution.
-Machine Learning Model Development: Students will design and implement machine learning models tailored to their specific problem, processing raw datasets and generating metadata as needed.
+
+**Machine Learning Model Development**: Students will design and implement machine learning models tailored to their specific problem, processing raw datasets and generating metadata as needed.
+
 **Data Structure Interface**: Students will create an interface for their data structure, enabling interoperable reuse and facilitating collaboration.
+
 **Open Science and FAIR Principles:** Throughout the project, students will adhere to open science principles, making all aspects of their work publicly available and reusable. This includes:
 
 **Transparency**: All code, data, and workflow documentation will be openly accessible.
 Reproducibility: The project will be designed to be reproducible, allowing others to build upon and extend the work.
+
 **Interoperability**: The data structure interface will enable seamless reuse and integration with other projects.
 
 By completing this project, students will gain hands-on experience with applying AI techniques to real-world challenges while embracing the principles of open science and FAIR research. The outcome will be a fully functional, FAIR, and open science-compliant project that showcases their skills and expertise.
