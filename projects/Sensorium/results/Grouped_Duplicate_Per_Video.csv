@@ -1,0 +1,784 @@
+video_1,Number of Duplicates,video_2_list
+Mouse_3__6_9__681.npy,8,"['Mouse_3__6_9__682.npy', 'Mouse_3__6_9__685.npy', 'Mouse_3__6_9__688.npy', 'Mouse_3__6_9__689.npy', 'Mouse_3__6_9__699.npy', 'Mouse_3__6_9__714.npy', 'Mouse_3__6_9__721.npy', 'Mouse_3__6_9__725.npy']"
+Mouse_3__6_9__684.npy,8,"['Mouse_3__6_9__694.npy', 'Mouse_3__6_9__698.npy', 'Mouse_3__6_9__705.npy', 'Mouse_3__6_9__712.npy', 'Mouse_3__6_9__716.npy', 'Mouse_3__6_9__719.npy', 'Mouse_3__6_9__726.npy', 'Mouse_3__6_9__732.npy']"
+Mouse_4__3_5__666.npy,7,"['Mouse_4__3_5__672.npy', 'Mouse_4__3_5__675.npy', 'Mouse_4__3_5__690.npy', 'Mouse_4__3_5__692.npy', 'Mouse_4__3_5__708.npy', 'Mouse_4__3_5__710.npy', 'Mouse_4__3_5__712.npy']"
+Mouse_2__2_10__371.npy,7,"['Mouse_2__2_10__428.npy', 'Mouse_2__2_10__493.npy', 'Mouse_2__2_10__505.npy', 'Mouse_2__2_10__547.npy', 'Mouse_2__2_10__549.npy', 'Mouse_2__2_10__557.npy', 'Mouse_2__2_10__623.npy']"
+Mouse_3__6_9__2.npy,7,"['Mouse_3__6_9__221.npy', 'Mouse_3__6_9__255.npy', 'Mouse_3__6_9__289.npy', 'Mouse_3__6_9__290.npy', 'Mouse_3__6_9__384.npy', 'Mouse_3__6_9__402.npy', 'Mouse_3__6_9__558.npy']"
+Mouse_2__2_10__667.npy,7,"['Mouse_2__2_10__676.npy', 'Mouse_2__2_10__679.npy', 'Mouse_2__2_10__686.npy', 'Mouse_2__2_10__694.npy', 'Mouse_2__2_10__696.npy', 'Mouse_2__2_10__704.npy', 'Mouse_2__2_10__709.npy']"
+Mouse_2__2_10__660.npy,7,"['Mouse_2__2_10__665.npy', 'Mouse_2__2_10__683.npy', 'Mouse_2__2_10__684.npy', 'Mouse_2__2_10__695.npy', 'Mouse_2__2_10__697.npy', 'Mouse_2__2_10__701.npy', 'Mouse_2__2_10__715.npy']"
+Mouse_3__6_9__687.npy,6,"['Mouse_3__6_9__701.npy', 'Mouse_3__6_9__702.npy', 'Mouse_3__6_9__703.npy', 'Mouse_3__6_9__710.npy', 'Mouse_3__6_9__711.npy', 'Mouse_3__6_9__734.npy']"
+Mouse_3__6_9__694.npy,6,"['Mouse_3__6_9__698.npy', 'Mouse_3__6_9__705.npy', 'Mouse_3__6_9__712.npy', 'Mouse_3__6_9__716.npy', 'Mouse_3__6_9__719.npy', 'Mouse_3__6_9__732.npy']"
+Mouse_3__6_9__685.npy,6,"['Mouse_3__6_9__688.npy', 'Mouse_3__6_9__689.npy', 'Mouse_3__6_9__693.npy', 'Mouse_3__6_9__699.npy', 'Mouse_3__6_9__714.npy', 'Mouse_3__6_9__725.npy']"
+Mouse_3__6_9__686.npy,6,"['Mouse_3__6_9__691.npy', 'Mouse_3__6_9__696.npy', 'Mouse_3__6_9__708.npy', 'Mouse_3__6_9__724.npy', 'Mouse_3__6_9__737.npy', 'Mouse_3__6_9__738.npy']"
+Mouse_3__6_9__423.npy,6,"['Mouse_3__6_9__476.npy', 'Mouse_3__6_9__513.npy', 'Mouse_3__6_9__515.npy', 'Mouse_3__6_9__573.npy', 'Mouse_3__6_9__577.npy', 'Mouse_3__6_9__643.npy']"
+Mouse_3__6_9__688.npy,6,"['Mouse_3__6_9__689.npy', 'Mouse_3__6_9__693.npy', 'Mouse_3__6_9__699.npy', 'Mouse_3__6_9__714.npy', 'Mouse_3__6_9__721.npy', 'Mouse_3__6_9__725.npy']"
+Mouse_4__3_5__671.npy,6,"['Mouse_4__3_5__673.npy', 'Mouse_4__3_5__678.npy', 'Mouse_4__3_5__688.npy', 'Mouse_4__3_5__698.npy', 'Mouse_4__3_5__703.npy', 'Mouse_4__3_5__716.npy']"
+Mouse_1__11_10__180.npy,6,"['Mouse_1__11_10__253.npy', 'Mouse_1__11_10__440.npy', 'Mouse_1__11_10__441.npy', 'Mouse_1__11_10__45.npy', 'Mouse_1__11_10__669.npy', 'Mouse_1__11_10__716.npy']"
+Mouse_3__6_9__390.npy,6,"['Mouse_3__6_9__423.npy', 'Mouse_3__6_9__513.npy', 'Mouse_3__6_9__515.npy', 'Mouse_3__6_9__573.npy', 'Mouse_3__6_9__577.npy', 'Mouse_3__6_9__643.npy']"
+Mouse_3__6_9__125.npy,6,"['Mouse_3__6_9__206.npy', 'Mouse_3__6_9__247.npy', 'Mouse_3__6_9__250.npy', 'Mouse_3__6_9__508.npy', 'Mouse_3__6_9__552.npy', 'Mouse_3__6_9__620.npy']"
+Mouse_3__6_9__698.npy,6,"['Mouse_3__6_9__705.npy', 'Mouse_3__6_9__712.npy', 'Mouse_3__6_9__716.npy', 'Mouse_3__6_9__719.npy', 'Mouse_3__6_9__726.npy', 'Mouse_3__6_9__732.npy']"
+Mouse_4__3_5__136.npy,6,"['Mouse_4__3_5__329.npy', 'Mouse_4__3_5__365.npy', 'Mouse_4__3_5__423.npy', 'Mouse_4__3_5__496.npy', 'Mouse_4__3_5__504.npy', 'Mouse_4__3_5__574.npy']"
+Mouse_1__11_10__172.npy,6,"['Mouse_1__11_10__241.npy', 'Mouse_1__11_10__388.npy', 'Mouse_1__11_10__438.npy', 'Mouse_1__11_10__442.npy', 'Mouse_1__11_10__523.npy', 'Mouse_1__11_10__55.npy']"
+Mouse_4__3_5__662.npy,6,"['Mouse_4__3_5__663.npy', 'Mouse_4__3_5__680.npy', 'Mouse_4__3_5__691.npy', 'Mouse_4__3_5__699.npy', 'Mouse_4__3_5__700.npy', 'Mouse_4__3_5__713.npy']"
+Mouse_3__6_9__116.npy,6,"['Mouse_3__6_9__125.npy', 'Mouse_3__6_9__206.npy', 'Mouse_3__6_9__250.npy', 'Mouse_3__6_9__508.npy', 'Mouse_3__6_9__620.npy', 'Mouse_3__6_9__629.npy']"
+Mouse_3__6_9__253.npy,6,"['Mouse_3__6_9__318.npy', 'Mouse_3__6_9__336.npy', 'Mouse_3__6_9__54.npy', 'Mouse_3__6_9__645.npy', 'Mouse_3__6_9__666.npy', 'Mouse_3__6_9__677.npy']"
+Mouse_1__11_10__126.npy,6,"['Mouse_1__11_10__388.npy', 'Mouse_1__11_10__438.npy', 'Mouse_1__11_10__442.npy', 'Mouse_1__11_10__523.npy', 'Mouse_1__11_10__55.npy', 'Mouse_1__11_10__615.npy']"
+Mouse_2__2_10__666.npy,6,"['Mouse_2__2_10__672.npy', 'Mouse_2__2_10__675.npy', 'Mouse_2__2_10__682.npy', 'Mouse_2__2_10__692.npy', 'Mouse_2__2_10__708.npy', 'Mouse_2__2_10__712.npy']"
+Mouse_2__2_10__662.npy,6,"['Mouse_2__2_10__663.npy', 'Mouse_2__2_10__674.npy', 'Mouse_2__2_10__691.npy', 'Mouse_2__2_10__700.npy', 'Mouse_2__2_10__713.npy', 'Mouse_2__2_10__714.npy']"
+Mouse_1__11_10__124.npy,6,"['Mouse_1__11_10__187.npy', 'Mouse_1__11_10__25.npy', 'Mouse_1__11_10__29.npy', 'Mouse_1__11_10__524.npy', 'Mouse_1__11_10__625.npy', 'Mouse_1__11_10__632.npy']"
+Mouse_3__6_9__696.npy,5,"['Mouse_3__6_9__708.npy', 'Mouse_3__6_9__722.npy', 'Mouse_3__6_9__724.npy', 'Mouse_3__6_9__737.npy', 'Mouse_3__6_9__738.npy']"
+Mouse_3__6_9__702.npy,5,"['Mouse_3__6_9__703.npy', 'Mouse_3__6_9__710.npy', 'Mouse_3__6_9__711.npy', 'Mouse_3__6_9__723.npy', 'Mouse_3__6_9__734.npy']"
+Mouse_4__3_5__143.npy,5,"['Mouse_4__3_5__157.npy', 'Mouse_4__3_5__159.npy', 'Mouse_4__3_5__170.npy', 'Mouse_4__3_5__483.npy', 'Mouse_4__3_5__59.npy']"
+Mouse_3__6_9__709.npy,5,"['Mouse_3__6_9__715.npy', 'Mouse_3__6_9__717.npy', 'Mouse_3__6_9__718.npy', 'Mouse_3__6_9__733.npy', 'Mouse_3__6_9__736.npy']"
+Mouse_4__3_5__680.npy,5,"['Mouse_4__3_5__691.npy', 'Mouse_4__3_5__699.npy', 'Mouse_4__3_5__700.npy', 'Mouse_4__3_5__713.npy', 'Mouse_4__3_5__714.npy']"
+Mouse_4__3_5__660.npy,5,"['Mouse_4__3_5__661.npy', 'Mouse_4__3_5__665.npy', 'Mouse_4__3_5__683.npy', 'Mouse_4__3_5__684.npy', 'Mouse_4__3_5__697.npy']"
+Mouse_1__11_10__24.npy,5,"['Mouse_1__11_10__250.npy', 'Mouse_1__11_10__38.npy', 'Mouse_1__11_10__402.npy', 'Mouse_1__11_10__56.npy', 'Mouse_1__11_10__97.npy']"
+Mouse_4__3_5__162.npy,5,"['Mouse_4__3_5__371.npy', 'Mouse_4__3_5__505.npy', 'Mouse_4__3_5__547.npy', 'Mouse_4__3_5__549.npy', 'Mouse_4__3_5__87.npy']"
+Mouse_1__11_10__187.npy,5,"['Mouse_1__11_10__25.npy', 'Mouse_1__11_10__29.npy', 'Mouse_1__11_10__500.npy', 'Mouse_1__11_10__543.npy', 'Mouse_1__11_10__632.npy']"
+Mouse_1__11_10__165.npy,5,"['Mouse_1__11_10__177.npy', 'Mouse_1__11_10__236.npy', 'Mouse_1__11_10__266.npy', 'Mouse_1__11_10__27.npy', 'Mouse_1__11_10__32.npy']"
+Mouse_1__11_10__459.npy,5,"['Mouse_1__11_10__464.npy', 'Mouse_1__11_10__522.npy', 'Mouse_1__11_10__626.npy', 'Mouse_1__11_10__630.npy', 'Mouse_1__11_10__699.npy']"
+Mouse_3__6_9__298.npy,5,"['Mouse_3__6_9__433.npy', 'Mouse_3__6_9__574.npy', 'Mouse_3__6_9__580.npy', 'Mouse_3__6_9__625.npy', 'Mouse_3__6_9__663.npy']"
+Mouse_3__6_9__404.npy,5,"['Mouse_3__6_9__433.npy', 'Mouse_3__6_9__580.npy', 'Mouse_3__6_9__601.npy', 'Mouse_3__6_9__625.npy', 'Mouse_3__6_9__663.npy']"
+Mouse_2__2_10__693.npy,5,"['Mouse_2__2_10__702.npy', 'Mouse_2__2_10__705.npy', 'Mouse_2__2_10__711.npy', 'Mouse_2__2_10__717.npy', 'Mouse_2__2_10__719.npy']"
+Mouse_3__6_9__689.npy,5,"['Mouse_3__6_9__693.npy', 'Mouse_3__6_9__699.npy', 'Mouse_3__6_9__714.npy', 'Mouse_3__6_9__721.npy', 'Mouse_3__6_9__725.npy']"
+Mouse_3__6_9__683.npy,5,"['Mouse_3__6_9__695.npy', 'Mouse_3__6_9__715.npy', 'Mouse_3__6_9__717.npy', 'Mouse_3__6_9__718.npy', 'Mouse_3__6_9__731.npy']"
+Mouse_3__6_9__691.npy,5,"['Mouse_3__6_9__696.npy', 'Mouse_3__6_9__708.npy', 'Mouse_3__6_9__722.npy', 'Mouse_3__6_9__724.npy', 'Mouse_3__6_9__738.npy']"
+Mouse_3__6_9__701.npy,5,"['Mouse_3__6_9__702.npy', 'Mouse_3__6_9__703.npy', 'Mouse_3__6_9__710.npy', 'Mouse_3__6_9__711.npy', 'Mouse_3__6_9__734.npy']"
+Mouse_3__6_9__695.npy,5,"['Mouse_3__6_9__700.npy', 'Mouse_3__6_9__709.npy', 'Mouse_3__6_9__718.npy', 'Mouse_3__6_9__731.npy', 'Mouse_3__6_9__733.npy']"
+Mouse_1__11_10__534.npy,5,"['Mouse_1__11_10__540.npy', 'Mouse_1__11_10__588.npy', 'Mouse_1__11_10__623.npy', 'Mouse_1__11_10__629.npy', 'Mouse_1__11_10__717.npy']"
+Mouse_1__11_10__148.npy,5,"['Mouse_1__11_10__169.npy', 'Mouse_1__11_10__189.npy', 'Mouse_1__11_10__243.npy', 'Mouse_1__11_10__532.npy', 'Mouse_1__11_10__735.npy']"
+Mouse_2__2_10__203.npy,5,"['Mouse_2__2_10__275.npy', 'Mouse_2__2_10__324.npy', 'Mouse_2__2_10__412.npy', 'Mouse_2__2_10__624.npy', 'Mouse_2__2_10__65.npy']"
+Mouse_2__2_10__168.npy,5,"['Mouse_2__2_10__196.npy', 'Mouse_2__2_10__227.npy', 'Mouse_2__2_10__253.npy', 'Mouse_2__2_10__318.npy', 'Mouse_2__2_10__593.npy']"
+Mouse_2__2_10__672.npy,5,"['Mouse_2__2_10__682.npy', 'Mouse_2__2_10__690.npy', 'Mouse_2__2_10__692.npy', 'Mouse_2__2_10__708.npy', 'Mouse_2__2_10__712.npy']"
+Mouse_3__6_9__206.npy,5,"['Mouse_3__6_9__250.npy', 'Mouse_3__6_9__508.npy', 'Mouse_3__6_9__510.npy', 'Mouse_3__6_9__620.npy', 'Mouse_3__6_9__629.npy']"
+Mouse_4__3_5__10.npy,4,"['Mouse_4__3_5__375.npy', 'Mouse_4__3_5__400.npy', 'Mouse_4__3_5__465.npy', 'Mouse_4__3_5__515.npy']"
+Mouse_1__11_10__317.npy,4,"['Mouse_1__11_10__442.npy', 'Mouse_1__11_10__523.npy', 'Mouse_1__11_10__55.npy', 'Mouse_1__11_10__615.npy']"
+Mouse_1__11_10__328.npy,4,"['Mouse_1__11_10__332.npy', 'Mouse_1__11_10__526.npy', 'Mouse_1__11_10__587.npy', 'Mouse_1__11_10__596.npy']"
+Mouse_4__3_5__414.npy,4,"['Mouse_4__3_5__519.npy', 'Mouse_4__3_5__545.npy', 'Mouse_4__3_5__569.npy', 'Mouse_4__3_5__646.npy']"
+Mouse_4__3_5__371.npy,4,"['Mouse_4__3_5__428.npy', 'Mouse_4__3_5__505.npy', 'Mouse_4__3_5__623.npy', 'Mouse_4__3_5__87.npy']"
+Mouse_4__3_5__667.npy,4,"['Mouse_4__3_5__676.npy', 'Mouse_4__3_5__696.npy', 'Mouse_4__3_5__704.npy', 'Mouse_4__3_5__706.npy']"
+Mouse_3__6_9__693.npy,4,"['Mouse_3__6_9__699.npy', 'Mouse_3__6_9__714.npy', 'Mouse_3__6_9__721.npy', 'Mouse_3__6_9__725.npy']"
+Mouse_3__6_9__690.npy,4,"['Mouse_3__6_9__705.npy', 'Mouse_3__6_9__712.npy', 'Mouse_3__6_9__726.npy', 'Mouse_3__6_9__732.npy']"
+Mouse_1__11_10__348.npy,4,"['Mouse_1__11_10__37.npy', 'Mouse_1__11_10__375.npy', 'Mouse_1__11_10__607.npy', 'Mouse_1__11_10__642.npy']"
+Mouse_3__6_9__692.npy,4,"['Mouse_3__6_9__701.npy', 'Mouse_3__6_9__703.npy', 'Mouse_3__6_9__710.npy', 'Mouse_3__6_9__723.npy']"
+Mouse_2__2_10__211.npy,4,"['Mouse_2__2_10__212.npy', 'Mouse_2__2_10__298.npy', 'Mouse_2__2_10__360.npy', 'Mouse_2__2_10__372.npy']"
+Mouse_2__2_10__197.npy,4,"['Mouse_2__2_10__209.npy', 'Mouse_2__2_10__214.npy', 'Mouse_2__2_10__327.npy', 'Mouse_2__2_10__657.npy']"
+Mouse_2__2_10__665.npy,4,"['Mouse_2__2_10__683.npy', 'Mouse_2__2_10__695.npy', 'Mouse_2__2_10__697.npy', 'Mouse_2__2_10__701.npy']"
+Mouse_2__2_10__493.npy,4,"['Mouse_2__2_10__505.npy', 'Mouse_2__2_10__547.npy', 'Mouse_2__2_10__557.npy', 'Mouse_2__2_10__623.npy']"
+Mouse_2__2_10__428.npy,4,"['Mouse_2__2_10__493.npy', 'Mouse_2__2_10__547.npy', 'Mouse_2__2_10__557.npy', 'Mouse_2__2_10__623.npy']"
+Mouse_2__2_10__676.npy,4,"['Mouse_2__2_10__679.npy', 'Mouse_2__2_10__694.npy', 'Mouse_2__2_10__696.npy', 'Mouse_2__2_10__706.npy']"
+Mouse_2__2_10__679.npy,4,"['Mouse_2__2_10__686.npy', 'Mouse_2__2_10__696.npy', 'Mouse_2__2_10__704.npy', 'Mouse_2__2_10__709.npy']"
+Mouse_1__11_10__438.npy,4,"['Mouse_1__11_10__442.npy', 'Mouse_1__11_10__523.npy', 'Mouse_1__11_10__55.npy', 'Mouse_1__11_10__615.npy']"
+Mouse_3__6_9__389.npy,4,"['Mouse_3__6_9__574.npy', 'Mouse_3__6_9__601.npy', 'Mouse_3__6_9__625.npy', 'Mouse_3__6_9__663.npy']"
+Mouse_1__11_10__425.npy,4,"['Mouse_1__11_10__627.npy', 'Mouse_1__11_10__654.npy', 'Mouse_1__11_10__681.npy', 'Mouse_1__11_10__721.npy']"
+Mouse_1__11_10__426.npy,4,"['Mouse_1__11_10__459.npy', 'Mouse_1__11_10__464.npy', 'Mouse_1__11_10__626.npy', 'Mouse_1__11_10__630.npy']"
+Mouse_1__11_10__477.npy,4,"['Mouse_1__11_10__503.npy', 'Mouse_1__11_10__718.npy', 'Mouse_1__11_10__723.npy', 'Mouse_1__11_10__727.npy']"
+Mouse_3__6_9__140.npy,4,"['Mouse_3__6_9__392.npy', 'Mouse_3__6_9__444.npy', 'Mouse_3__6_9__481.npy', 'Mouse_3__6_9__585.npy']"
+Mouse_3__6_9__201.npy,4,"['Mouse_3__6_9__340.npy', 'Mouse_3__6_9__392.npy', 'Mouse_3__6_9__531.npy', 'Mouse_3__6_9__585.npy']"
+Mouse_2__2_10__685.npy,4,"['Mouse_2__2_10__689.npy', 'Mouse_2__2_10__702.npy', 'Mouse_2__2_10__717.npy', 'Mouse_2__2_10__719.npy']"
+Mouse_3__6_9__155.npy,4,"['Mouse_3__6_9__278.npy', 'Mouse_3__6_9__458.npy', 'Mouse_3__6_9__484.npy', 'Mouse_3__6_9__675.npy']"
+Mouse_2__2_10__689.npy,4,"['Mouse_2__2_10__693.npy', 'Mouse_2__2_10__702.npy', 'Mouse_2__2_10__705.npy', 'Mouse_2__2_10__719.npy']"
+Mouse_1__11_10__258.npy,4,"['Mouse_1__11_10__60.npy', 'Mouse_1__11_10__620.npy', 'Mouse_1__11_10__701.npy', 'Mouse_1__11_10__725.npy']"
+Mouse_3__6_9__712.npy,4,"['Mouse_3__6_9__716.npy', 'Mouse_3__6_9__719.npy', 'Mouse_3__6_9__726.npy', 'Mouse_3__6_9__732.npy']"
+Mouse_4__3_5__154.npy,4,"['Mouse_4__3_5__275.npy', 'Mouse_4__3_5__344.npy', 'Mouse_4__3_5__612.npy', 'Mouse_4__3_5__624.npy']"
+Mouse_1__11_10__241.npy,4,"['Mouse_1__11_10__438.npy', 'Mouse_1__11_10__442.npy', 'Mouse_1__11_10__55.npy', 'Mouse_1__11_10__615.npy']"
+Mouse_1__11_10__236.npy,4,"['Mouse_1__11_10__266.npy', 'Mouse_1__11_10__27.npy', 'Mouse_1__11_10__36.npy', 'Mouse_1__11_10__554.npy']"
+Mouse_3__6_9__722.npy,4,"['Mouse_3__6_9__724.npy', 'Mouse_3__6_9__737.npy', 'Mouse_3__6_9__738.npy', 'Mouse_3__6_9__739.npy']"
+Mouse_4__3_5__664.npy,4,"['Mouse_4__3_5__679.npy', 'Mouse_4__3_5__694.npy', 'Mouse_4__3_5__704.npy', 'Mouse_4__3_5__709.npy']"
+Mouse_4__3_5__676.npy,4,"['Mouse_4__3_5__679.npy', 'Mouse_4__3_5__694.npy', 'Mouse_4__3_5__704.npy', 'Mouse_4__3_5__709.npy']"
+Mouse_4__3_5__674.npy,4,"['Mouse_4__3_5__680.npy', 'Mouse_4__3_5__691.npy', 'Mouse_4__3_5__700.npy', 'Mouse_4__3_5__714.npy']"
+Mouse_4__3_5__673.npy,4,"['Mouse_4__3_5__678.npy', 'Mouse_4__3_5__688.npy', 'Mouse_4__3_5__698.npy', 'Mouse_4__3_5__703.npy']"
+Mouse_4__3_5__691.npy,4,"['Mouse_4__3_5__699.npy', 'Mouse_4__3_5__700.npy', 'Mouse_4__3_5__713.npy', 'Mouse_4__3_5__714.npy']"
+Mouse_4__3_5__690.npy,4,"['Mouse_4__3_5__692.npy', 'Mouse_4__3_5__708.npy', 'Mouse_4__3_5__710.npy', 'Mouse_4__3_5__712.npy']"
+Mouse_1__11_10__14.npy,4,"['Mouse_1__11_10__155.npy', 'Mouse_1__11_10__23.npy', 'Mouse_1__11_10__28.npy', 'Mouse_1__11_10__57.npy']"
+Mouse_4__3_5__672.npy,4,"['Mouse_4__3_5__675.npy', 'Mouse_4__3_5__692.npy', 'Mouse_4__3_5__710.npy', 'Mouse_4__3_5__712.npy']"
+Mouse_2__2_10__227.npy,4,"['Mouse_2__2_10__253.npy', 'Mouse_2__2_10__318.npy', 'Mouse_2__2_10__593.npy', 'Mouse_2__2_10__609.npy']"
+Mouse_4__3_5__665.npy,4,"['Mouse_4__3_5__683.npy', 'Mouse_4__3_5__684.npy', 'Mouse_4__3_5__697.npy', 'Mouse_4__3_5__701.npy']"
+Mouse_4__3_5__329.npy,4,"['Mouse_4__3_5__365.npy', 'Mouse_4__3_5__496.npy', 'Mouse_4__3_5__552.npy', 'Mouse_4__3_5__574.npy']"
+Mouse_4__3_5__427.npy,4,"['Mouse_4__3_5__489.npy', 'Mouse_4__3_5__497.npy', 'Mouse_4__3_5__589.npy', 'Mouse_4__3_5__80.npy']"
+Mouse_4__3_5__249.npy,4,"['Mouse_4__3_5__283.npy', 'Mouse_4__3_5__489.npy', 'Mouse_4__3_5__589.npy', 'Mouse_4__3_5__80.npy']"
+Mouse_4__3_5__302.npy,4,"['Mouse_4__3_5__499.npy', 'Mouse_4__3_5__527.npy', 'Mouse_4__3_5__577.npy', 'Mouse_4__3_5__614.npy']"
+Mouse_4__3_5__275.npy,4,"['Mouse_4__3_5__324.npy', 'Mouse_4__3_5__344.npy', 'Mouse_4__3_5__612.npy', 'Mouse_4__3_5__624.npy']"
+Mouse_4__3_5__324.npy,4,"['Mouse_4__3_5__344.npy', 'Mouse_4__3_5__412.npy', 'Mouse_4__3_5__624.npy', 'Mouse_4__3_5__65.npy']"
+Mouse_2__2_10__682.npy,4,"['Mouse_2__2_10__690.npy', 'Mouse_2__2_10__692.npy', 'Mouse_2__2_10__708.npy', 'Mouse_2__2_10__712.npy']"
+Mouse_2__2_10__675.npy,4,"['Mouse_2__2_10__682.npy', 'Mouse_2__2_10__692.npy', 'Mouse_2__2_10__708.npy', 'Mouse_2__2_10__712.npy']"
+Mouse_2__2_10__664.npy,4,"['Mouse_2__2_10__676.npy', 'Mouse_2__2_10__694.npy', 'Mouse_2__2_10__704.npy', 'Mouse_2__2_10__709.npy']"
+Mouse_2__2_10__661.npy,4,"['Mouse_2__2_10__665.npy', 'Mouse_2__2_10__683.npy', 'Mouse_2__2_10__684.npy', 'Mouse_2__2_10__695.npy']"
+Mouse_2__2_10__670.npy,4,"['Mouse_2__2_10__672.npy', 'Mouse_2__2_10__675.npy', 'Mouse_2__2_10__682.npy', 'Mouse_2__2_10__708.npy']"
+Mouse_2__2_10__702.npy,4,"['Mouse_2__2_10__705.npy', 'Mouse_2__2_10__711.npy', 'Mouse_2__2_10__717.npy', 'Mouse_2__2_10__719.npy']"
+Mouse_3__6_9__136.npy,4,"['Mouse_3__6_9__171.npy', 'Mouse_3__6_9__193.npy', 'Mouse_3__6_9__458.npy', 'Mouse_3__6_9__484.npy']"
+Mouse_2__2_10__684.npy,4,"['Mouse_2__2_10__695.npy', 'Mouse_2__2_10__697.npy', 'Mouse_2__2_10__701.npy', 'Mouse_2__2_10__707.npy']"
+Mouse_1__11_10__494.npy,4,"['Mouse_1__11_10__516.npy', 'Mouse_1__11_10__533.npy', 'Mouse_1__11_10__599.npy', 'Mouse_1__11_10__656.npy']"
+Mouse_1__11_10__475.npy,4,"['Mouse_1__11_10__633.npy', 'Mouse_1__11_10__654.npy', 'Mouse_1__11_10__681.npy', 'Mouse_1__11_10__721.npy']"
+Mouse_1__11_10__440.npy,4,"['Mouse_1__11_10__441.npy', 'Mouse_1__11_10__45.npy', 'Mouse_1__11_10__669.npy', 'Mouse_1__11_10__716.npy']"
+Mouse_3__6_9__306.npy,4,"['Mouse_3__6_9__319.npy', 'Mouse_3__6_9__35.npy', 'Mouse_3__6_9__482.npy', 'Mouse_3__6_9__556.npy']"
+Mouse_3__6_9__340.npy,4,"['Mouse_3__6_9__392.npy', 'Mouse_3__6_9__444.npy', 'Mouse_3__6_9__481.npy', 'Mouse_3__6_9__590.npy']"
+Mouse_3__6_9__384.npy,4,"['Mouse_3__6_9__402.npy', 'Mouse_3__6_9__475.npy', 'Mouse_3__6_9__533.npy', 'Mouse_3__6_9__558.npy']"
+Mouse_2__2_10__117.npy,4,"['Mouse_2__2_10__236.npy', 'Mouse_2__2_10__489.npy', 'Mouse_2__2_10__589.npy', 'Mouse_2__2_10__80.npy']"
+Mouse_2__2_10__324.npy,4,"['Mouse_2__2_10__344.npy', 'Mouse_2__2_10__412.npy', 'Mouse_2__2_10__624.npy', 'Mouse_2__2_10__65.npy']"
+Mouse_3__6_9__433.npy,3,"['Mouse_3__6_9__574.npy', 'Mouse_3__6_9__601.npy', 'Mouse_3__6_9__663.npy']"
+Mouse_3__6_9__443.npy,3,"['Mouse_3__6_9__516.npy', 'Mouse_3__6_9__628.npy', 'Mouse_3__6_9__82.npy']"
+Mouse_3__6_9__456.npy,3,"['Mouse_3__6_9__477.npy', 'Mouse_3__6_9__572.npy', 'Mouse_3__6_9__579.npy']"
+Mouse_3__6_9__458.npy,3,"['Mouse_3__6_9__484.npy', 'Mouse_3__6_9__606.npy', 'Mouse_3__6_9__675.npy']"
+Mouse_3__6_9__508.npy,3,"['Mouse_3__6_9__510.npy', 'Mouse_3__6_9__552.npy', 'Mouse_3__6_9__620.npy']"
+Mouse_3__6_9__476.npy,3,"['Mouse_3__6_9__515.npy', 'Mouse_3__6_9__577.npy', 'Mouse_3__6_9__643.npy']"
+Mouse_3__6_9__513.npy,3,"['Mouse_3__6_9__515.npy', 'Mouse_3__6_9__573.npy', 'Mouse_3__6_9__577.npy']"
+Mouse_3__6_9__682.npy,3,"['Mouse_3__6_9__688.npy', 'Mouse_3__6_9__714.npy', 'Mouse_3__6_9__721.npy']"
+Mouse_1__11_10__312.npy,3,"['Mouse_1__11_10__391.npy', 'Mouse_1__11_10__526.npy', 'Mouse_1__11_10__596.npy']"
+Mouse_1__11_10__375.npy,3,"['Mouse_1__11_10__489.npy', 'Mouse_1__11_10__607.npy', 'Mouse_1__11_10__642.npy']"
+Mouse_1__11_10__38.npy,3,"['Mouse_1__11_10__402.npy', 'Mouse_1__11_10__56.npy', 'Mouse_1__11_10__97.npy']"
+Mouse_1__11_10__331.npy,3,"['Mouse_1__11_10__336.npy', 'Mouse_1__11_10__488.npy', 'Mouse_1__11_10__510.npy']"
+Mouse_1__11_10__344.npy,3,"['Mouse_1__11_10__503.npy', 'Mouse_1__11_10__718.npy', 'Mouse_1__11_10__723.npy']"
+Mouse_1__11_10__349.npy,3,"['Mouse_1__11_10__364.npy', 'Mouse_1__11_10__599.npy', 'Mouse_1__11_10__656.npy']"
+Mouse_3__6_9__705.npy,3,"['Mouse_3__6_9__716.npy', 'Mouse_3__6_9__719.npy', 'Mouse_3__6_9__726.npy']"
+Mouse_4__3_5__248.npy,3,"['Mouse_4__3_5__378.npy', 'Mouse_4__3_5__658.npy', 'Mouse_4__3_5__94.npy']"
+Mouse_4__3_5__679.npy,3,"['Mouse_4__3_5__696.npy', 'Mouse_4__3_5__706.npy', 'Mouse_4__3_5__709.npy']"
+Mouse_1__11_10__101.npy,3,"['Mouse_1__11_10__210.npy', 'Mouse_1__11_10__733.npy', 'Mouse_1__11_10__95.npy']"
+Mouse_1__11_10__131.npy,3,"['Mouse_1__11_10__150.npy', 'Mouse_1__11_10__176.npy', 'Mouse_1__11_10__40.npy']"
+Mouse_4__3_5__449.npy,3,"['Mouse_4__3_5__467.npy', 'Mouse_4__3_5__486.npy', 'Mouse_4__3_5__9.npy']"
+Mouse_1__11_10__134.npy,3,"['Mouse_1__11_10__258.npy', 'Mouse_1__11_10__60.npy', 'Mouse_1__11_10__737.npy']"
+Mouse_4__3_5__663.npy,3,"['Mouse_4__3_5__680.npy', 'Mouse_4__3_5__699.npy', 'Mouse_4__3_5__700.npy']"
+Mouse_4__3_5__483.npy,3,"['Mouse_4__3_5__59.npy', 'Mouse_4__3_5__6.npy', 'Mouse_4__3_5__86.npy']"
+Mouse_1__11_10__169.npy,3,"['Mouse_1__11_10__211.npy', 'Mouse_1__11_10__243.npy', 'Mouse_1__11_10__659.npy']"
+Mouse_4__3_5__433.npy,3,"['Mouse_4__3_5__449.npy', 'Mouse_4__3_5__467.npy', 'Mouse_4__3_5__486.npy']"
+Mouse_1__11_10__198.npy,3,"['Mouse_1__11_10__222.npy', 'Mouse_1__11_10__518.npy', 'Mouse_1__11_10__94.npy']"
+Mouse_4__3_5__365.npy,3,"['Mouse_4__3_5__423.npy', 'Mouse_4__3_5__496.npy', 'Mouse_4__3_5__504.npy']"
+Mouse_4__3_5__320.npy,3,"['Mouse_4__3_5__329.npy', 'Mouse_4__3_5__423.npy', 'Mouse_4__3_5__496.npy']"
+Mouse_4__3_5__282.npy,3,"['Mouse_4__3_5__302.npy', 'Mouse_4__3_5__499.npy', 'Mouse_4__3_5__527.npy']"
+Mouse_4__3_5__283.npy,3,"['Mouse_4__3_5__427.npy', 'Mouse_4__3_5__489.npy', 'Mouse_4__3_5__80.npy']"
+Mouse_4__3_5__683.npy,3,"['Mouse_4__3_5__684.npy', 'Mouse_4__3_5__697.npy', 'Mouse_4__3_5__701.npy']"
+Mouse_3__6_9__706.npy,3,"['Mouse_3__6_9__713.npy', 'Mouse_3__6_9__729.npy', 'Mouse_3__6_9__735.npy']"
+Mouse_3__6_9__728.npy,3,"['Mouse_3__6_9__729.npy', 'Mouse_3__6_9__730.npy', 'Mouse_3__6_9__735.npy']"
+Mouse_4__3_5__158.npy,3,"['Mouse_4__3_5__319.npy', 'Mouse_4__3_5__643.npy', 'Mouse_4__3_5__8.npy']"
+Mouse_4__3_5__165.npy,3,"['Mouse_4__3_5__327.npy', 'Mouse_4__3_5__455.npy', 'Mouse_4__3_5__63.npy']"
+Mouse_4__3_5__169.npy,3,"['Mouse_4__3_5__247.npy', 'Mouse_4__3_5__374.npy', 'Mouse_4__3_5__43.npy']"
+Mouse_1__11_10__242.npy,3,"['Mouse_1__11_10__468.npy', 'Mouse_1__11_10__77.npy', 'Mouse_1__11_10__89.npy']"
+Mouse_1__11_10__255.npy,3,"['Mouse_1__11_10__386.npy', 'Mouse_1__11_10__674.npy', 'Mouse_1__11_10__91.npy']"
+Mouse_1__11_10__224.npy,3,"['Mouse_1__11_10__557.npy', 'Mouse_1__11_10__559.npy', 'Mouse_1__11_10__676.npy']"
+Mouse_3__6_9__717.npy,3,"['Mouse_3__6_9__718.npy', 'Mouse_3__6_9__733.npy', 'Mouse_3__6_9__736.npy']"
+Mouse_3__6_9__708.npy,3,"['Mouse_3__6_9__737.npy', 'Mouse_3__6_9__738.npy', 'Mouse_3__6_9__739.npy']"
+Mouse_3__6_9__710.npy,3,"['Mouse_3__6_9__711.npy', 'Mouse_3__6_9__723.npy', 'Mouse_3__6_9__734.npy']"
+Mouse_1__11_10__292.npy,3,"['Mouse_1__11_10__336.npy', 'Mouse_1__11_10__488.npy', 'Mouse_1__11_10__510.npy']"
+Mouse_1__11_10__29.npy,3,"['Mouse_1__11_10__500.npy', 'Mouse_1__11_10__543.npy', 'Mouse_1__11_10__625.npy']"
+Mouse_3__6_9__703.npy,3,"['Mouse_3__6_9__710.npy', 'Mouse_3__6_9__711.npy', 'Mouse_3__6_9__734.npy']"
+Mouse_3__6_9__704.npy,3,"['Mouse_3__6_9__728.npy', 'Mouse_3__6_9__729.npy', 'Mouse_3__6_9__730.npy']"
+Mouse_4__3_5__253.npy,3,"['Mouse_4__3_5__296.npy', 'Mouse_4__3_5__494.npy', 'Mouse_4__3_5__556.npy']"
+Mouse_1__11_10__402.npy,3,"['Mouse_1__11_10__472.npy', 'Mouse_1__11_10__513.npy', 'Mouse_1__11_10__56.npy']"
+Mouse_2__2_10__686.npy,3,"['Mouse_2__2_10__694.npy', 'Mouse_2__2_10__696.npy', 'Mouse_2__2_10__706.npy']"
+Mouse_2__2_10__694.npy,3,"['Mouse_2__2_10__696.npy', 'Mouse_2__2_10__704.npy', 'Mouse_2__2_10__706.npy']"
+Mouse_1__11_10__555.npy,3,"['Mouse_1__11_10__602.npy', 'Mouse_1__11_10__639.npy', 'Mouse_1__11_10__663.npy']"
+Mouse_3__6_9__126.npy,3,"['Mouse_3__6_9__268.npy', 'Mouse_3__6_9__304.npy', 'Mouse_3__6_9__445.npy']"
+Mouse_3__6_9__123.npy,3,"['Mouse_3__6_9__207.npy', 'Mouse_3__6_9__263.npy', 'Mouse_3__6_9__566.npy']"
+Mouse_3__6_9__114.npy,3,"['Mouse_3__6_9__456.npy', 'Mouse_3__6_9__572.npy', 'Mouse_3__6_9__579.npy']"
+Mouse_1__11_10__540.npy,3,"['Mouse_1__11_10__623.npy', 'Mouse_1__11_10__629.npy', 'Mouse_1__11_10__717.npy']"
+Mouse_3__6_9__287.npy,3,"['Mouse_3__6_9__389.npy', 'Mouse_3__6_9__433.npy', 'Mouse_3__6_9__601.npy']"
+Mouse_3__6_9__248.npy,3,"['Mouse_3__6_9__268.npy', 'Mouse_3__6_9__304.npy', 'Mouse_3__6_9__445.npy']"
+Mouse_1__11_10__502.npy,3,"['Mouse_1__11_10__532.npy', 'Mouse_1__11_10__659.npy', 'Mouse_1__11_10__735.npy']"
+Mouse_3__6_9__263.npy,3,"['Mouse_3__6_9__47.npy', 'Mouse_3__6_9__566.npy', 'Mouse_3__6_9__633.npy']"
+Mouse_3__6_9__250.npy,3,"['Mouse_3__6_9__552.npy', 'Mouse_3__6_9__620.npy', 'Mouse_3__6_9__629.npy']"
+Mouse_3__6_9__183.npy,3,"['Mouse_3__6_9__340.npy', 'Mouse_3__6_9__392.npy', 'Mouse_3__6_9__590.npy']"
+Mouse_3__6_9__202.npy,3,"['Mouse_3__6_9__309.npy', 'Mouse_3__6_9__450.npy', 'Mouse_3__6_9__678.npy']"
+Mouse_3__6_9__153.npy,3,"['Mouse_3__6_9__306.npy', 'Mouse_3__6_9__482.npy', 'Mouse_3__6_9__556.npy']"
+Mouse_3__6_9__139.npy,3,"['Mouse_3__6_9__351.npy', 'Mouse_3__6_9__359.npy', 'Mouse_3__6_9__639.npy']"
+Mouse_3__6_9__336.npy,3,"['Mouse_3__6_9__567.npy', 'Mouse_3__6_9__645.npy', 'Mouse_3__6_9__677.npy']"
+Mouse_3__6_9__347.npy,3,"['Mouse_3__6_9__425.npy', 'Mouse_3__6_9__560.npy', 'Mouse_3__6_9__649.npy']"
+Mouse_3__6_9__351.npy,3,"['Mouse_3__6_9__359.npy', 'Mouse_3__6_9__541.npy', 'Mouse_3__6_9__639.npy']"
+Mouse_3__6_9__360.npy,3,"['Mouse_3__6_9__47.npy', 'Mouse_3__6_9__566.npy', 'Mouse_3__6_9__633.npy']"
+Mouse_1__11_10__391.npy,3,"['Mouse_1__11_10__526.npy', 'Mouse_1__11_10__538.npy', 'Mouse_1__11_10__587.npy']"
+Mouse_3__6_9__387.npy,3,"['Mouse_3__6_9__425.npy', 'Mouse_3__6_9__560.npy', 'Mouse_3__6_9__649.npy']"
+Mouse_3__6_9__335.npy,3,"['Mouse_3__6_9__451.npy', 'Mouse_3__6_9__470.npy', 'Mouse_3__6_9__603.npy']"
+Mouse_1__11_10__45.npy,3,"['Mouse_1__11_10__608.npy', 'Mouse_1__11_10__669.npy', 'Mouse_1__11_10__716.npy']"
+Mouse_3__6_9__326.npy,3,"['Mouse_3__6_9__542.npy', 'Mouse_3__6_9__618.npy', 'Mouse_3__6_9__630.npy']"
+Mouse_1__11_10__445.npy,3,"['Mouse_1__11_10__627.npy', 'Mouse_1__11_10__654.npy', 'Mouse_1__11_10__721.npy']"
+Mouse_3__6_9__318.npy,3,"['Mouse_3__6_9__54.npy', 'Mouse_3__6_9__666.npy', 'Mouse_3__6_9__677.npy']"
+Mouse_3__6_9__319.npy,3,"['Mouse_3__6_9__344.npy', 'Mouse_3__6_9__446.npy', 'Mouse_3__6_9__556.npy']"
+Mouse_3__6_9__309.npy,3,"['Mouse_3__6_9__450.npy', 'Mouse_3__6_9__490.npy', 'Mouse_3__6_9__593.npy']"
+Mouse_3__6_9__304.npy,3,"['Mouse_3__6_9__308.npy', 'Mouse_3__6_9__445.npy', 'Mouse_3__6_9__465.npy']"
+Mouse_3__6_9__290.npy,3,"['Mouse_3__6_9__384.npy', 'Mouse_3__6_9__475.npy', 'Mouse_3__6_9__558.npy']"
+Mouse_3__6_9__289.npy,3,"['Mouse_3__6_9__290.npy', 'Mouse_3__6_9__402.npy', 'Mouse_3__6_9__558.npy']"
+Mouse_1__11_10__410.npy,3,"['Mouse_1__11_10__440.npy', 'Mouse_1__11_10__45.npy', 'Mouse_1__11_10__669.npy']"
+Mouse_2__2_10__237.npy,3,"['Mouse_2__2_10__247.npy', 'Mouse_2__2_10__374.npy', 'Mouse_2__2_10__620.npy']"
+Mouse_2__2_10__246.npy,3,"['Mouse_2__2_10__303.npy', 'Mouse_2__2_10__450.npy', 'Mouse_2__2_10__534.npy']"
+Mouse_2__2_10__241.npy,3,"['Mouse_2__2_10__291.npy', 'Mouse_2__2_10__440.npy', 'Mouse_2__2_10__653.npy']"
+Mouse_2__2_10__303.npy,3,"['Mouse_2__2_10__450.npy', 'Mouse_2__2_10__534.npy', 'Mouse_2__2_10__617.npy']"
+Mouse_2__2_10__320.npy,3,"['Mouse_2__2_10__365.npy', 'Mouse_2__2_10__496.npy', 'Mouse_2__2_10__574.npy']"
+Mouse_2__2_10__475.npy,3,"['Mouse_2__2_10__499.npy', 'Mouse_2__2_10__527.npy', 'Mouse_2__2_10__577.npy']"
+Mouse_2__2_10__282.npy,3,"['Mouse_2__2_10__302.npy', 'Mouse_2__2_10__421.npy', 'Mouse_2__2_10__614.npy']"
+Mouse_2__2_10__547.npy,3,"['Mouse_2__2_10__549.npy', 'Mouse_2__2_10__557.npy', 'Mouse_2__2_10__623.npy']"
+Mouse_2__2_10__496.npy,3,"['Mouse_2__2_10__504.npy', 'Mouse_2__2_10__552.npy', 'Mouse_2__2_10__574.npy']"
+Mouse_2__2_10__505.npy,3,"['Mouse_2__2_10__547.npy', 'Mouse_2__2_10__557.npy', 'Mouse_2__2_10__623.npy']"
+Mouse_2__2_10__663.npy,3,"['Mouse_2__2_10__674.npy', 'Mouse_2__2_10__700.npy', 'Mouse_2__2_10__714.npy']"
+Mouse_1__11_10__620.npy,3,"['Mouse_1__11_10__701.npy', 'Mouse_1__11_10__725.npy', 'Mouse_1__11_10__737.npy']"
+Mouse_1__11_10__60.npy,3,"['Mouse_1__11_10__701.npy', 'Mouse_1__11_10__725.npy', 'Mouse_1__11_10__737.npy']"
+Mouse_2__2_10__668.npy,3,"['Mouse_2__2_10__693.npy', 'Mouse_2__2_10__702.npy', 'Mouse_2__2_10__705.npy']"
+Mouse_2__2_10__412.npy,3,"['Mouse_2__2_10__484.npy', 'Mouse_2__2_10__624.npy', 'Mouse_2__2_10__65.npy']"
+Mouse_4__3_5__675.npy,3,"['Mouse_4__3_5__682.npy', 'Mouse_4__3_5__710.npy', 'Mouse_4__3_5__712.npy']"
+Mouse_4__3_5__677.npy,3,"['Mouse_4__3_5__678.npy', 'Mouse_4__3_5__716.npy', 'Mouse_4__3_5__718.npy']"
+Mouse_2__2_10__173.npy,3,"['Mouse_2__2_10__177.npy', 'Mouse_2__2_10__387.npy', 'Mouse_2__2_10__432.npy']"
+Mouse_2__2_10__165.npy,3,"['Mouse_2__2_10__197.npy', 'Mouse_2__2_10__327.npy', 'Mouse_2__2_10__455.npy']"
+Mouse_2__2_10__180.npy,3,"['Mouse_2__2_10__263.npy', 'Mouse_2__2_10__338.npy', 'Mouse_2__2_10__461.npy']"
+Mouse_2__2_10__154.npy,3,"['Mouse_2__2_10__324.npy', 'Mouse_2__2_10__412.npy', 'Mouse_2__2_10__624.npy']"
+Mouse_2__2_10__236.npy,3,"['Mouse_2__2_10__283.npy', 'Mouse_2__2_10__482.npy', 'Mouse_2__2_10__497.npy']"
+Mouse_2__2_10__181.npy,3,"['Mouse_2__2_10__342.npy', 'Mouse_2__2_10__385.npy', 'Mouse_2__2_10__439.npy']"
+Mouse_4__3_5__692.npy,3,"['Mouse_4__3_5__708.npy', 'Mouse_4__3_5__710.npy', 'Mouse_4__3_5__712.npy']"
+Mouse_4__3_5__694.npy,3,"['Mouse_4__3_5__696.npy', 'Mouse_4__3_5__704.npy', 'Mouse_4__3_5__709.npy']"
+Mouse_1__11_10__162.npy,3,"['Mouse_1__11_10__20.npy', 'Mouse_1__11_10__260.npy', 'Mouse_1__11_10__50.npy']"
+Mouse_1__11_10__161.npy,3,"['Mouse_1__11_10__255.npy', 'Mouse_1__11_10__674.npy', 'Mouse_1__11_10__91.npy']"
+Mouse_1__11_10__117.npy,3,"['Mouse_1__11_10__166.npy', 'Mouse_1__11_10__38.npy', 'Mouse_1__11_10__97.npy']"
+Mouse_1__11_10__116.npy,3,"['Mouse_1__11_10__231.npy', 'Mouse_1__11_10__74.npy', 'Mouse_1__11_10__79.npy']"
+Mouse_1__11_10__114.npy,3,"['Mouse_1__11_10__116.npy', 'Mouse_1__11_10__231.npy', 'Mouse_1__11_10__74.npy']"
+Mouse_1__11_10__112.npy,3,"['Mouse_1__11_10__136.npy', 'Mouse_1__11_10__138.npy', 'Mouse_1__11_10__68.npy']"
+Mouse_1__11_10__160.npy,2,"['Mouse_1__11_10__236.npy', 'Mouse_1__11_10__36.npy']"
+Mouse_4__3_5__689.npy,2,"['Mouse_4__3_5__702.npy', 'Mouse_4__3_5__717.npy']"
+Mouse_2__2_10__177.npy,2,"['Mouse_2__2_10__387.npy', 'Mouse_2__2_10__389.npy']"
+Mouse_2__2_10__182.npy,2,"['Mouse_2__2_10__220.npy', 'Mouse_2__2_10__598.npy']"
+Mouse_4__3_5__678.npy,2,"['Mouse_4__3_5__698.npy', 'Mouse_4__3_5__718.npy']"
+Mouse_4__3_5__681.npy,2,"['Mouse_4__3_5__689.npy', 'Mouse_4__3_5__717.npy']"
+Mouse_4__3_5__682.npy,2,"['Mouse_4__3_5__692.npy', 'Mouse_4__3_5__708.npy']"
+Mouse_4__3_5__684.npy,2,"['Mouse_4__3_5__697.npy', 'Mouse_4__3_5__701.npy']"
+Mouse_4__3_5__685.npy,2,"['Mouse_4__3_5__693.npy', 'Mouse_4__3_5__705.npy']"
+Mouse_4__3_5__688.npy,2,"['Mouse_4__3_5__703.npy', 'Mouse_4__3_5__716.npy']"
+Mouse_4__3_5__505.npy,2,"['Mouse_4__3_5__547.npy', 'Mouse_4__3_5__549.npy']"
+Mouse_4__3_5__519.npy,2,"['Mouse_4__3_5__545.npy', 'Mouse_4__3_5__646.npy']"
+Mouse_4__3_5__527.npy,2,"['Mouse_4__3_5__577.npy', 'Mouse_4__3_5__614.npy']"
+Mouse_4__3_5__545.npy,2,"['Mouse_4__3_5__569.npy', 'Mouse_4__3_5__646.npy']"
+Mouse_2__2_10__225.npy,2,"['Mouse_2__2_10__333.npy', 'Mouse_2__2_10__377.npy']"
+Mouse_2__2_10__231.npy,2,"['Mouse_2__2_10__241.npy', 'Mouse_2__2_10__440.npy']"
+Mouse_2__2_10__113.npy,2,"['Mouse_2__2_10__169.npy', 'Mouse_2__2_10__247.npy']"
+Mouse_2__2_10__13.npy,2,"['Mouse_2__2_10__476.npy', 'Mouse_2__2_10__481.npy']"
+Mouse_4__3_5__564.npy,2,"['Mouse_4__3_5__598.npy', 'Mouse_4__3_5__600.npy']"
+Mouse_4__3_5__615.npy,2,"['Mouse_4__3_5__63.npy', 'Mouse_4__3_5__657.npy']"
+Mouse_4__3_5__631.npy,2,"['Mouse_4__3_5__648.npy', 'Mouse_4__3_5__75.npy']"
+Mouse_4__3_5__475.npy,2,"['Mouse_4__3_5__527.npy', 'Mouse_4__3_5__577.npy']"
+Mouse_2__2_10__162.npy,2,"['Mouse_2__2_10__371.npy', 'Mouse_2__2_10__428.npy']"
+Mouse_2__2_10__24.npy,2,"['Mouse_2__2_10__365.npy', 'Mouse_2__2_10__496.npy']"
+Mouse_2__2_10__240.npy,2,"['Mouse_2__2_10__246.npy', 'Mouse_2__2_10__534.npy']"
+Mouse_2__2_10__249.npy,2,"['Mouse_2__2_10__427.npy', 'Mouse_2__2_10__489.npy']"
+Mouse_2__2_10__212.npy,2,"['Mouse_2__2_10__360.npy', 'Mouse_2__2_10__390.npy']"
+Mouse_2__2_10__215.npy,2,"['Mouse_2__2_10__277.npy', 'Mouse_2__2_10__446.npy']"
+Mouse_2__2_10__223.npy,2,"['Mouse_2__2_10__425.npy', 'Mouse_2__2_10__476.npy']"
+Mouse_4__3_5__482.npy,2,"['Mouse_4__3_5__489.npy', 'Mouse_4__3_5__497.npy']"
+Mouse_4__3_5__484.npy,2,"['Mouse_4__3_5__612.npy', 'Mouse_4__3_5__624.npy']"
+Mouse_4__3_5__493.npy,2,"['Mouse_4__3_5__505.npy', 'Mouse_4__3_5__549.npy']"
+Mouse_4__3_5__497.npy,2,"['Mouse_4__3_5__589.npy', 'Mouse_4__3_5__80.npy']"
+Mouse_1__11_10__210.npy,2,"['Mouse_1__11_10__228.npy', 'Mouse_1__11_10__95.npy']"
+Mouse_1__11_10__211.npy,2,"['Mouse_1__11_10__243.npy', 'Mouse_1__11_10__532.npy']"
+Mouse_4__3_5__423.npy,2,"['Mouse_4__3_5__496.npy', 'Mouse_4__3_5__504.npy']"
+Mouse_4__3_5__428.npy,2,"['Mouse_4__3_5__547.npy', 'Mouse_4__3_5__557.npy']"
+Mouse_4__3_5__448.npy,2,"['Mouse_4__3_5__546.npy', 'Mouse_4__3_5__602.npy']"
+Mouse_4__3_5__450.npy,2,"['Mouse_4__3_5__458.npy', 'Mouse_4__3_5__534.npy']"
+Mouse_4__3_5__378.npy,2,"['Mouse_4__3_5__658.npy', 'Mouse_4__3_5__94.npy']"
+Mouse_4__3_5__400.npy,2,"['Mouse_4__3_5__434.npy', 'Mouse_4__3_5__533.npy']"
+Mouse_2__2_10__275.npy,2,"['Mouse_2__2_10__344.npy', 'Mouse_2__2_10__612.npy']"
+Mouse_2__2_10__283.npy,2,"['Mouse_2__2_10__489.npy', 'Mouse_2__2_10__497.npy']"
+Mouse_2__2_10__152.npy,2,"['Mouse_2__2_10__303.npy', 'Mouse_2__2_10__617.npy']"
+Mouse_1__11_10__177.npy,2,"['Mouse_1__11_10__236.npy', 'Mouse_1__11_10__32.npy']"
+Mouse_1__11_10__181.npy,2,"['Mouse_1__11_10__477.npy', 'Mouse_1__11_10__723.npy']"
+Mouse_1__11_10__189.npy,2,"['Mouse_1__11_10__243.npy', 'Mouse_1__11_10__735.npy']"
+Mouse_4__3_5__319.npy,2,"['Mouse_4__3_5__643.npy', 'Mouse_4__3_5__8.npy']"
+Mouse_4__3_5__327.npy,2,"['Mouse_4__3_5__615.npy', 'Mouse_4__3_5__63.npy']"
+Mouse_4__3_5__344.npy,2,"['Mouse_4__3_5__484.npy', 'Mouse_4__3_5__624.npy']"
+Mouse_4__3_5__353.npy,2,"['Mouse_4__3_5__355.npy', 'Mouse_4__3_5__613.npy']"
+Mouse_4__3_5__373.npy,2,"['Mouse_4__3_5__410.npy', 'Mouse_4__3_5__47.npy']"
+Mouse_4__3_5__272.npy,2,"['Mouse_4__3_5__404.npy', 'Mouse_4__3_5__448.npy']"
+Mouse_4__3_5__296.npy,2,"['Mouse_4__3_5__593.npy', 'Mouse_4__3_5__609.npy']"
+Mouse_1__11_10__250.npy,2,"['Mouse_1__11_10__38.npy', 'Mouse_1__11_10__97.npy']"
+Mouse_1__11_10__253.npy,2,"['Mouse_1__11_10__366.npy', 'Mouse_1__11_10__45.npy']"
+Mouse_2__2_10__375.npy,2,"['Mouse_2__2_10__400.npy', 'Mouse_2__2_10__434.npy']"
+Mouse_2__2_10__393.npy,2,"['Mouse_2__2_10__439.npy', 'Mouse_2__2_10__487.npy']"
+Mouse_2__2_10__273.npy,2,"['Mouse_2__2_10__355.npy', 'Mouse_2__2_10__560.npy']"
+Mouse_4__3_5__170.npy,2,"['Mouse_4__3_5__59.npy', 'Mouse_4__3_5__6.npy']"
+Mouse_4__3_5__18.npy,2,"['Mouse_4__3_5__414.npy', 'Mouse_4__3_5__519.npy']"
+Mouse_4__3_5__186.npy,2,"['Mouse_4__3_5__192.npy', 'Mouse_4__3_5__237.npy']"
+Mouse_4__3_5__131.npy,2,"['Mouse_4__3_5__149.npy', 'Mouse_4__3_5__291.npy']"
+Mouse_4__3_5__157.npy,2,"['Mouse_4__3_5__170.npy', 'Mouse_4__3_5__337.npy']"
+Mouse_1__11_10__278.npy,2,"['Mouse_1__11_10__283.npy', 'Mouse_1__11_10__497.npy']"
+Mouse_1__11_10__302.npy,2,"['Mouse_1__11_10__502.npy', 'Mouse_1__11_10__532.npy']"
+Mouse_3__6_9__718.npy,2,"['Mouse_3__6_9__731.npy', 'Mouse_3__6_9__736.npy']"
+Mouse_1__11_10__347.npy,2,"['Mouse_1__11_10__620.npy', 'Mouse_1__11_10__725.npy']"
+Mouse_3__6_9__700.npy,2,"['Mouse_3__6_9__733.npy', 'Mouse_3__6_9__736.npy']"
+Mouse_2__2_10__455.npy,2,"['Mouse_2__2_10__615.npy', 'Mouse_2__2_10__657.npy']"
+Mouse_2__2_10__484.npy,2,"['Mouse_2__2_10__612.npy', 'Mouse_2__2_10__624.npy']"
+Mouse_2__2_10__489.npy,2,"['Mouse_2__2_10__497.npy', 'Mouse_2__2_10__589.npy']"
+Mouse_2__2_10__353.npy,2,"['Mouse_2__2_10__355.npy', 'Mouse_2__2_10__613.npy']"
+Mouse_3__6_9__707.npy,2,"['Mouse_3__6_9__728.npy', 'Mouse_3__6_9__730.npy']"
+Mouse_3__6_9__711.npy,2,"['Mouse_3__6_9__720.npy', 'Mouse_3__6_9__734.npy']"
+Mouse_3__6_9__713.npy,2,"['Mouse_3__6_9__728.npy', 'Mouse_3__6_9__730.npy']"
+Mouse_3__6_9__714.npy,2,"['Mouse_3__6_9__721.npy', 'Mouse_3__6_9__725.npy']"
+Mouse_1__11_10__27.npy,2,"['Mouse_1__11_10__32.npy', 'Mouse_1__11_10__447.npy']"
+Mouse_1__11_10__367.npy,2,"['Mouse_1__11_10__386.npy', 'Mouse_1__11_10__674.npy']"
+Mouse_1__11_10__371.npy,2,"['Mouse_1__11_10__638.npy', 'Mouse_1__11_10__643.npy']"
+Mouse_1__11_10__374.npy,2,"['Mouse_1__11_10__575.npy', 'Mouse_1__11_10__605.npy']"
+Mouse_1__11_10__387.npy,2,"['Mouse_1__11_10__457.npy', 'Mouse_1__11_10__707.npy']"
+Mouse_1__11_10__388.npy,2,"['Mouse_1__11_10__442.npy', 'Mouse_1__11_10__523.npy']"
+Mouse_1__11_10__315.npy,2,"['Mouse_1__11_10__521.npy', 'Mouse_1__11_10__582.npy']"
+Mouse_1__11_10__318.npy,2,"['Mouse_1__11_10__52.npy', 'Mouse_1__11_10__717.npy']"
+Mouse_1__11_10__324.npy,2,"['Mouse_1__11_10__627.npy', 'Mouse_1__11_10__721.npy']"
+Mouse_1__11_10__334.npy,2,"['Mouse_1__11_10__489.npy', 'Mouse_1__11_10__642.npy']"
+Mouse_1__11_10__336.npy,2,"['Mouse_1__11_10__510.npy', 'Mouse_1__11_10__68.npy']"
+Mouse_3__6_9__601.npy,2,"['Mouse_3__6_9__625.npy', 'Mouse_3__6_9__663.npy']"
+Mouse_3__6_9__612.npy,2,"['Mouse_3__6_9__631.npy', 'Mouse_3__6_9__640.npy']"
+Mouse_1__11_10__640.npy,2,"['Mouse_1__11_10__668.npy', 'Mouse_1__11_10__733.npy']"
+Mouse_2__2_10__433.npy,2,"['Mouse_2__2_10__449.npy', 'Mouse_2__2_10__486.npy']"
+Mouse_3__6_9__645.npy,2,"['Mouse_3__6_9__666.npy', 'Mouse_3__6_9__677.npy']"
+Mouse_1__11_10__364.npy,2,"['Mouse_1__11_10__494.npy', 'Mouse_1__11_10__516.npy']"
+Mouse_1__11_10__366.npy,2,"['Mouse_1__11_10__440.npy', 'Mouse_1__11_10__608.npy']"
+Mouse_3__6_9__515.npy,2,"['Mouse_3__6_9__577.npy', 'Mouse_3__6_9__643.npy']"
+Mouse_3__6_9__54.npy,2,"['Mouse_3__6_9__567.npy', 'Mouse_3__6_9__666.npy']"
+Mouse_3__6_9__542.npy,2,"['Mouse_3__6_9__618.npy', 'Mouse_3__6_9__630.npy']"
+Mouse_3__6_9__436.npy,2,"['Mouse_3__6_9__472.npy', 'Mouse_3__6_9__497.npy']"
+Mouse_3__6_9__445.npy,2,"['Mouse_3__6_9__465.npy', 'Mouse_3__6_9__62.npy']"
+Mouse_3__6_9__450.npy,2,"['Mouse_3__6_9__490.npy', 'Mouse_3__6_9__678.npy']"
+Mouse_2__2_10__548.npy,2,"['Mouse_2__2_10__572.npy', 'Mouse_2__2_10__637.npy']"
+Mouse_2__2_10__564.npy,2,"['Mouse_2__2_10__598.npy', 'Mouse_2__2_10__600.npy']"
+Mouse_2__2_10__529.npy,2,"['Mouse_2__2_10__631.npy', 'Mouse_2__2_10__648.npy']"
+Mouse_2__2_10__531.npy,2,"['Mouse_2__2_10__573.npy', 'Mouse_2__2_10__604.npy']"
+Mouse_2__2_10__540.npy,2,"['Mouse_2__2_10__564.npy', 'Mouse_2__2_10__598.npy']"
+Mouse_3__6_9__459.npy,2,"['Mouse_3__6_9__490.npy', 'Mouse_3__6_9__593.npy']"
+Mouse_3__6_9__47.npy,2,"['Mouse_3__6_9__5.npy', 'Mouse_3__6_9__633.npy']"
+Mouse_3__6_9__470.npy,2,"['Mouse_3__6_9__485.npy', 'Mouse_3__6_9__603.npy']"
+Mouse_3__6_9__490.npy,2,"['Mouse_3__6_9__593.npy', 'Mouse_3__6_9__678.npy']"
+Mouse_1__11_10__415.npy,2,"['Mouse_1__11_10__551.npy', 'Mouse_1__11_10__641.npy']"
+Mouse_1__11_10__424.npy,2,"['Mouse_1__11_10__595.npy', 'Mouse_1__11_10__720.npy']"
+Mouse_1__11_10__428.npy,2,"['Mouse_1__11_10__580.npy', 'Mouse_1__11_10__643.npy']"
+Mouse_3__6_9__392.npy,2,"['Mouse_3__6_9__444.npy', 'Mouse_3__6_9__585.npy']"
+Mouse_3__6_9__412.npy,2,"['Mouse_3__6_9__443.npy', 'Mouse_3__6_9__628.npy']"
+Mouse_3__6_9__418.npy,2,"['Mouse_3__6_9__513.npy', 'Mouse_3__6_9__643.npy']"
+Mouse_1__11_10__453.npy,2,"['Mouse_1__11_10__468.npy', 'Mouse_1__11_10__601.npy']"
+Mouse_1__11_10__466.npy,2,"['Mouse_1__11_10__612.npy', 'Mouse_1__11_10__705.npy']"
+Mouse_1__11_10__468.npy,2,"['Mouse_1__11_10__486.npy', 'Mouse_1__11_10__601.npy']"
+Mouse_1__11_10__472.npy,2,"['Mouse_1__11_10__56.npy', 'Mouse_1__11_10__97.npy']"
+Mouse_1__11_10__486.npy,2,"['Mouse_1__11_10__601.npy', 'Mouse_1__11_10__684.npy']"
+Mouse_2__2_10__669.npy,2,"['Mouse_2__2_10__700.npy', 'Mouse_2__2_10__714.npy']"
+Mouse_2__2_10__671.npy,2,"['Mouse_2__2_10__677.npy', 'Mouse_2__2_10__688.npy']"
+Mouse_2__2_10__673.npy,2,"['Mouse_2__2_10__698.npy', 'Mouse_2__2_10__703.npy']"
+Mouse_1__11_10__562.npy,2,"['Mouse_1__11_10__564.npy', 'Mouse_1__11_10__630.npy']"
+Mouse_3__6_9__369.npy,2,"['Mouse_3__6_9__451.npy', 'Mouse_3__6_9__470.npy']"
+Mouse_1__11_10__404.npy,2,"['Mouse_1__11_10__516.npy', 'Mouse_1__11_10__656.npy']"
+Mouse_3__6_9__261.npy,2,"['Mouse_3__6_9__47.npy', 'Mouse_3__6_9__5.npy']"
+Mouse_3__6_9__308.npy,2,"['Mouse_3__6_9__445.npy', 'Mouse_3__6_9__465.npy']"
+Mouse_3__6_9__320.npy,2,"['Mouse_3__6_9__335.npy', 'Mouse_3__6_9__470.npy']"
+Mouse_3__6_9__321.npy,2,"['Mouse_3__6_9__387.npy', 'Mouse_3__6_9__560.npy']"
+Mouse_1__11_10__439.npy,2,"['Mouse_1__11_10__582.npy', 'Mouse_1__11_10__610.npy']"
+Mouse_1__11_10__500.npy,2,"['Mouse_1__11_10__524.npy', 'Mouse_1__11_10__625.npy']"
+Mouse_1__11_10__627.npy,2,"['Mouse_1__11_10__633.npy', 'Mouse_1__11_10__654.npy']"
+Mouse_2__2_10__677.npy,2,"['Mouse_2__2_10__678.npy', 'Mouse_2__2_10__688.npy']"
+Mouse_2__2_10__681.npy,2,"['Mouse_2__2_10__693.npy', 'Mouse_2__2_10__717.npy']"
+Mouse_2__2_10__683.npy,2,"['Mouse_2__2_10__695.npy', 'Mouse_2__2_10__707.npy']"
+Mouse_2__2_10__690.npy,2,"['Mouse_2__2_10__708.npy', 'Mouse_2__2_10__712.npy']"
+Mouse_2__2_10__695.npy,2,"['Mouse_2__2_10__707.npy', 'Mouse_2__2_10__715.npy']"
+Mouse_1__11_10__52.npy,2,"['Mouse_1__11_10__623.npy', 'Mouse_1__11_10__717.npy']"
+Mouse_1__11_10__522.npy,2,"['Mouse_1__11_10__626.npy', 'Mouse_1__11_10__630.npy']"
+Mouse_3__6_9__221.npy,2,"['Mouse_3__6_9__255.npy', 'Mouse_3__6_9__289.npy']"
+Mouse_3__6_9__23.npy,2,"['Mouse_3__6_9__249.npy', 'Mouse_3__6_9__27.npy']"
+Mouse_3__6_9__236.npy,2,"['Mouse_3__6_9__253.npy', 'Mouse_3__6_9__666.npy']"
+Mouse_3__6_9__238.npy,2,"['Mouse_3__6_9__4.npy', 'Mouse_3__6_9__46.npy']"
+Mouse_3__6_9__176.npy,2,"['Mouse_3__6_9__208.npy', 'Mouse_3__6_9__331.npy']"
+Mouse_3__6_9__19.npy,2,"['Mouse_3__6_9__4.npy', 'Mouse_3__6_9__46.npy']"
+Mouse_3__6_9__200.npy,2,"['Mouse_3__6_9__470.npy', 'Mouse_3__6_9__603.npy']"
+Mouse_3__6_9__207.npy,2,"['Mouse_3__6_9__360.npy', 'Mouse_3__6_9__47.npy']"
+Mouse_1__11_10__493.npy,2,"['Mouse_1__11_10__504.npy', 'Mouse_1__11_10__738.npy']"
+Mouse_3__6_9__127.npy,2,"['Mouse_3__6_9__167.npy', 'Mouse_3__6_9__462.npy']"
+Mouse_3__6_9__143.npy,2,"['Mouse_3__6_9__374.npy', 'Mouse_3__6_9__540.npy']"
+Mouse_3__6_9__103.npy,2,"['Mouse_3__6_9__304.npy', 'Mouse_3__6_9__465.npy']"
+Mouse_1__11_10__601.npy,2,"['Mouse_1__11_10__611.npy', 'Mouse_1__11_10__684.npy']"
+Mouse_1__11_10__602.npy,2,"['Mouse_1__11_10__609.npy', 'Mouse_1__11_10__663.npy']"
+Mouse_1__11_10__626.npy,2,"['Mouse_1__11_10__630.npy', 'Mouse_1__11_10__699.npy']"
+Mouse_3__6_9__149.npy,2,"['Mouse_3__6_9__326.npy', 'Mouse_3__6_9__542.npy']"
+Mouse_3__6_9__158.npy,2,"['Mouse_3__6_9__393.npy', 'Mouse_3__6_9__495.npy']"
+Mouse_3__6_9__171.npy,2,"['Mouse_3__6_9__193.npy', 'Mouse_3__6_9__458.npy']"
+Mouse_1__11_10__529.npy,2,"['Mouse_1__11_10__638.npy', 'Mouse_1__11_10__643.npy']"
+Mouse_1__11_10__532.npy,2,"['Mouse_1__11_10__659.npy', 'Mouse_1__11_10__735.npy']"
+Mouse_1__11_10__541.npy,2,"['Mouse_1__11_10__579.npy', 'Mouse_1__11_10__595.npy']"
+Mouse_1__11_10__544.npy,2,"['Mouse_1__11_10__552.npy', 'Mouse_1__11_10__593.npy']"
+Mouse_1__11_10__557.npy,2,"['Mouse_1__11_10__676.npy', 'Mouse_1__11_10__685.npy']"
+Mouse_1__11_10__559.npy,2,"['Mouse_1__11_10__676.npy', 'Mouse_1__11_10__685.npy']"
+Mouse_3__6_9__113.npy,2,"['Mouse_3__6_9__319.npy', 'Mouse_3__6_9__556.npy']"
+Mouse_3__6_9__118.npy,2,"['Mouse_3__6_9__119.npy', 'Mouse_3__6_9__498.npy']"
+Mouse_3__6_9__119.npy,2,"['Mouse_3__6_9__161.npy', 'Mouse_3__6_9__498.npy']"
+Mouse_3__6_9__122.npy,2,"['Mouse_3__6_9__318.npy', 'Mouse_3__6_9__666.npy']"
+Mouse_2__2_10__186.npy,2,"['Mouse_2__2_10__247.npy', 'Mouse_2__2_10__374.npy']"
+Mouse_2__2_10__19.npy,2,"['Mouse_2__2_10__4.npy', 'Mouse_2__2_10__461.npy']"
+Mouse_2__2_10__191.npy,2,"['Mouse_2__2_10__263.npy', 'Mouse_2__2_10__461.npy']"
+Mouse_2__2_10__195.npy,2,"['Mouse_2__2_10__252.npy', 'Mouse_2__2_10__295.npy']"
+Mouse_2__2_10__196.npy,2,"['Mouse_2__2_10__253.npy', 'Mouse_2__2_10__609.npy']"
+Mouse_2__2_10__201.npy,2,"['Mouse_2__2_10__391.npy', 'Mouse_2__2_10__569.npy']"
+Mouse_2__2_10__206.npy,2,"['Mouse_2__2_10__215.npy', 'Mouse_2__2_10__277.npy']"
+Mouse_4__3_5__661.npy,2,"['Mouse_4__3_5__665.npy', 'Mouse_4__3_5__701.npy']"
+Mouse_1__11_10__13.npy,2,"['Mouse_1__11_10__146.npy', 'Mouse_1__11_10__205.npy']"
+Mouse_1__11_10__135.npy,2,"['Mouse_1__11_10__183.npy', 'Mouse_1__11_10__51.npy']"
+Mouse_1__11_10__137.npy,2,"['Mouse_1__11_10__224.npy', 'Mouse_1__11_10__676.npy']"
+Mouse_4__3_5__704.npy,2,"['Mouse_4__3_5__706.npy', 'Mouse_4__3_5__709.npy']"
+Mouse_4__3_5__708.npy,2,"['Mouse_4__3_5__710.npy', 'Mouse_4__3_5__712.npy']"
+Mouse_1__11_10__130.npy,2,"['Mouse_1__11_10__150.npy', 'Mouse_1__11_10__176.npy']"
+Mouse_1__11_10__166.npy,2,"['Mouse_1__11_10__24.npy', 'Mouse_1__11_10__97.npy']"
+Mouse_1__11_10__152.npy,2,"['Mouse_1__11_10__219.npy', 'Mouse_1__11_10__638.npy']"
+Mouse_1__11_10__150.npy,2,"['Mouse_1__11_10__176.npy', 'Mouse_1__11_10__40.npy']"
+Mouse_1__11_10__128.npy,2,"['Mouse_1__11_10__224.npy', 'Mouse_1__11_10__676.npy']"
+Mouse_1__11_10__158.npy,1,['Mouse_1__11_10__22.npy']
+Mouse_4__3_5__695.npy,1,['Mouse_4__3_5__707.npy']
+Mouse_4__3_5__696.npy,1,['Mouse_4__3_5__706.npy']
+Mouse_1__11_10__151.npy,1,['Mouse_1__11_10__9.npy']
+Mouse_4__3_5__658.npy,1,['Mouse_4__3_5__94.npy']
+Mouse_1__11_10__168.npy,1,['Mouse_1__11_10__58.npy']
+Mouse_1__11_10__163.npy,1,['Mouse_1__11_10__245.npy']
+Mouse_4__3_5__713.npy,1,['Mouse_4__3_5__714.npy']
+Mouse_4__3_5__710.npy,1,['Mouse_4__3_5__712.npy']
+Mouse_4__3_5__703.npy,1,['Mouse_4__3_5__716.npy']
+Mouse_1__11_10__138.npy,1,['Mouse_1__11_10__488.npy']
+Mouse_1__11_10__136.npy,1,['Mouse_1__11_10__138.npy']
+Mouse_2__2_10__209.npy,1,['Mouse_2__2_10__615.npy']
+Mouse_2__2_10__198.npy,1,['Mouse_2__2_10__461.npy']
+Mouse_1__11_10__127.npy,1,['Mouse_1__11_10__181.npy']
+Mouse_2__2_10__136.npy,1,['Mouse_2__2_10__329.npy']
+Mouse_2__2_10__139.npy,1,['Mouse_2__2_10__333.npy']
+Mouse_4__3_5__637.npy,1,['Mouse_4__3_5__644.npy']
+Mouse_4__3_5__642.npy,1,['Mouse_4__3_5__76.npy']
+Mouse_4__3_5__698.npy,1,['Mouse_4__3_5__718.npy']
+Mouse_4__3_5__699.npy,1,['Mouse_4__3_5__700.npy']
+Mouse_4__3_5__701.npy,1,['Mouse_4__3_5__715.npy']
+Mouse_4__3_5__702.npy,1,['Mouse_4__3_5__717.npy']
+Mouse_4__3_5__549.npy,1,['Mouse_4__3_5__623.npy']
+Mouse_4__3_5__552.npy,1,['Mouse_4__3_5__574.npy']
+Mouse_4__3_5__556.npy,1,['Mouse_4__3_5__593.npy']
+Mouse_4__3_5__573.npy,1,['Mouse_4__3_5__604.npy']
+Mouse_4__3_5__593.npy,1,['Mouse_4__3_5__609.npy']
+Mouse_4__3_5__598.npy,1,['Mouse_4__3_5__600.npy']
+Mouse_4__3_5__63.npy,1,['Mouse_4__3_5__657.npy']
+Mouse_4__3_5__465.npy,1,['Mouse_4__3_5__515.npy']
+Mouse_3__6_9__138.npy,1,['Mouse_3__6_9__498.npy']
+Mouse_3__6_9__146.npy,1,['Mouse_3__6_9__343.npy']
+Mouse_2__2_10__707.npy,1,['Mouse_2__2_10__715.npy']
+Mouse_2__2_10__708.npy,1,['Mouse_2__2_10__712.npy']
+Mouse_2__2_10__711.npy,1,['Mouse_2__2_10__717.npy']
+Mouse_2__2_10__713.npy,1,['Mouse_2__2_10__714.npy']
+Mouse_2__2_10__717.npy,1,['Mouse_2__2_10__719.npy']
+Mouse_3__6_9__105.npy,1,['Mouse_3__6_9__588.npy']
+Mouse_3__6_9__11.npy,1,['Mouse_3__6_9__423.npy']
+Mouse_3__6_9__112.npy,1,['Mouse_3__6_9__346.npy']
+Mouse_1__11_10__526.npy,1,['Mouse_1__11_10__538.npy']
+Mouse_1__11_10__603.npy,1,['Mouse_1__11_10__685.npy']
+Mouse_1__11_10__608.npy,1,['Mouse_1__11_10__669.npy']
+Mouse_1__11_10__611.npy,1,['Mouse_1__11_10__89.npy']
+Mouse_3__6_9__154.npy,1,['Mouse_3__6_9__377.npy']
+Mouse_3__6_9__161.npy,1,['Mouse_3__6_9__498.npy']
+Mouse_1__11_10__523.npy,1,['Mouse_1__11_10__615.npy']
+Mouse_1__11_10__524.npy,1,['Mouse_1__11_10__543.npy']
+Mouse_3__6_9__247.npy,1,['Mouse_3__6_9__552.npy']
+Mouse_3__6_9__178.npy,1,['Mouse_3__6_9__202.npy']
+Mouse_3__6_9__191.npy,1,['Mouse_3__6_9__672.npy']
+Mouse_3__6_9__192.npy,1,['Mouse_3__6_9__615.npy']
+Mouse_3__6_9__193.npy,1,['Mouse_3__6_9__458.npy']
+Mouse_3__6_9__197.npy,1,['Mouse_3__6_9__593.npy']
+Mouse_3__6_9__204.npy,1,['Mouse_3__6_9__672.npy']
+Mouse_3__6_9__208.npy,1,['Mouse_3__6_9__331.npy']
+Mouse_3__6_9__209.npy,1,['Mouse_3__6_9__502.npy']
+Mouse_3__6_9__22.npy,1,['Mouse_3__6_9__26.npy']
+Mouse_1__11_10__488.npy,1,['Mouse_1__11_10__510.npy']
+Mouse_1__11_10__489.npy,1,['Mouse_1__11_10__642.npy']
+Mouse_3__6_9__124.npy,1,['Mouse_3__6_9__304.npy']
+Mouse_3__6_9__134.npy,1,['Mouse_3__6_9__439.npy']
+Mouse_1__11_10__497.npy,1,['Mouse_1__11_10__674.npy']
+Mouse_1__11_10__503.npy,1,['Mouse_1__11_10__718.npy']
+Mouse_1__11_10__513.npy,1,['Mouse_1__11_10__56.npy']
+Mouse_1__11_10__516.npy,1,['Mouse_1__11_10__599.npy']
+Mouse_1__11_10__518.npy,1,['Mouse_1__11_10__546.npy']
+Mouse_1__11_10__629.npy,1,['Mouse_1__11_10__717.npy']
+Mouse_2__2_10__678.npy,1,['Mouse_2__2_10__688.npy']
+Mouse_2__2_10__680.npy,1,['Mouse_2__2_10__714.npy']
+Mouse_2__2_10__687.npy,1,['Mouse_2__2_10__716.npy']
+Mouse_2__2_10__593.npy,1,['Mouse_2__2_10__609.npy']
+Mouse_2__2_10__595.npy,1,['Mouse_2__2_10__637.npy']
+Mouse_2__2_10__598.npy,1,['Mouse_2__2_10__600.npy']
+Mouse_2__2_10__612.npy,1,['Mouse_2__2_10__624.npy']
+Mouse_2__2_10__615.npy,1,['Mouse_2__2_10__657.npy']
+Mouse_2__2_10__624.npy,1,['Mouse_2__2_10__65.npy']
+Mouse_1__11_10__521.npy,1,['Mouse_1__11_10__582.npy']
+Mouse_3__6_9__344.npy,1,['Mouse_3__6_9__589.npy']
+Mouse_3__6_9__352.npy,1,['Mouse_3__6_9__615.npy']
+Mouse_3__6_9__359.npy,1,['Mouse_3__6_9__639.npy']
+Mouse_3__6_9__377.npy,1,['Mouse_3__6_9__400.npy']
+Mouse_3__6_9__379.npy,1,['Mouse_3__6_9__588.npy']
+Mouse_3__6_9__25.npy,1,['Mouse_3__6_9__30.npy']
+Mouse_3__6_9__269.npy,1,['Mouse_3__6_9__9.npy']
+Mouse_3__6_9__278.npy,1,['Mouse_3__6_9__606.npy']
+Mouse_3__6_9__291.npy,1,['Mouse_3__6_9__374.npy']
+Mouse_3__6_9__297.npy,1,['Mouse_3__6_9__636.npy']
+Mouse_3__6_9__30.npy,1,['Mouse_3__6_9__34.npy']
+Mouse_3__6_9__313.npy,1,['Mouse_3__6_9__416.npy']
+Mouse_3__6_9__314.npy,1,['Mouse_3__6_9__587.npy']
+Mouse_3__6_9__330.npy,1,['Mouse_3__6_9__492.npy']
+Mouse_1__11_10__441.npy,1,['Mouse_1__11_10__669.npy']
+Mouse_1__11_10__442.npy,1,['Mouse_1__11_10__55.npy']
+Mouse_1__11_10__464.npy,1,['Mouse_1__11_10__630.npy']
+Mouse_2__2_10__674.npy,1,['Mouse_2__2_10__714.npy']
+Mouse_1__11_10__565.npy,1,['Mouse_1__11_10__684.npy']
+Mouse_1__11_10__575.npy,1,['Mouse_1__11_10__605.npy']
+Mouse_1__11_10__580.npy,1,['Mouse_1__11_10__643.npy']
+Mouse_1__11_10__582.npy,1,['Mouse_1__11_10__610.npy']
+Mouse_1__11_10__599.npy,1,['Mouse_1__11_10__656.npy']
+Mouse_1__11_10__676.npy,1,['Mouse_1__11_10__685.npy']
+Mouse_1__11_10__681.npy,1,['Mouse_1__11_10__721.npy']
+Mouse_1__11_10__701.npy,1,['Mouse_1__11_10__737.npy']
+Mouse_1__11_10__712.npy,1,['Mouse_1__11_10__719.npy']
+Mouse_1__11_10__718.npy,1,['Mouse_1__11_10__723.npy']
+Mouse_1__11_10__732.npy,1,['Mouse_1__11_10__94.npy']
+Mouse_1__11_10__487.npy,1,['Mouse_1__11_10__638.npy']
+Mouse_3__6_9__331.npy,1,['Mouse_3__6_9__636.npy']
+Mouse_3__6_9__337.npy,1,['Mouse_3__6_9__436.npy']
+Mouse_3__6_9__477.npy,1,['Mouse_3__6_9__572.npy']
+Mouse_3__6_9__482.npy,1,['Mouse_3__6_9__556.npy']
+Mouse_3__6_9__484.npy,1,['Mouse_3__6_9__675.npy']
+Mouse_3__6_9__495.npy,1,['Mouse_3__6_9__597.npy']
+Mouse_3__6_9__503.npy,1,['Mouse_3__6_9__543.npy']
+Mouse_3__6_9__506.npy,1,['Mouse_3__6_9__551.npy']
+Mouse_1__11_10__409.npy,1,['Mouse_1__11_10__726.npy']
+Mouse_1__11_10__413.npy,1,['Mouse_1__11_10__663.npy']
+Mouse_1__11_10__420.npy,1,['Mouse_1__11_10__610.npy']
+Mouse_1__11_10__423.npy,1,['Mouse_1__11_10__612.npy']
+Mouse_1__11_10__429.npy,1,['Mouse_1__11_10__650.npy']
+Mouse_1__11_10__436.npy,1,['Mouse_1__11_10__609.npy']
+Mouse_3__6_9__393.npy,1,['Mouse_3__6_9__495.npy']
+Mouse_3__6_9__4.npy,1,['Mouse_3__6_9__46.npy']
+Mouse_3__6_9__425.npy,1,['Mouse_3__6_9__649.npy']
+Mouse_3__6_9__427.npy,1,['Mouse_3__6_9__443.npy']
+Mouse_3__6_9__580.npy,1,['Mouse_3__6_9__601.npy']
+Mouse_3__6_9__587.npy,1,['Mouse_3__6_9__92.npy']
+Mouse_3__6_9__444.npy,1,['Mouse_3__6_9__531.npy']
+Mouse_3__6_9__446.npy,1,['Mouse_3__6_9__482.npy']
+Mouse_3__6_9__451.npy,1,['Mouse_3__6_9__603.npy']
+Mouse_1__11_10__74.npy,1,['Mouse_1__11_10__79.npy']
+Mouse_1__11_10__77.npy,1,['Mouse_1__11_10__89.npy']
+Mouse_2__2_10__549.npy,1,['Mouse_2__2_10__557.npy']
+Mouse_2__2_10__557.npy,1,['Mouse_2__2_10__623.npy']
+Mouse_2__2_10__560.npy,1,['Mouse_2__2_10__613.npy']
+Mouse_2__2_10__572.npy,1,['Mouse_2__2_10__595.npy']
+Mouse_2__2_10__577.npy,1,['Mouse_2__2_10__614.npy']
+Mouse_2__2_10__59.npy,1,['Mouse_2__2_10__86.npy']
+Mouse_2__2_10__499.npy,1,['Mouse_2__2_10__614.npy']
+Mouse_2__2_10__519.npy,1,['Mouse_2__2_10__569.npy']
+Mouse_2__2_10__530.npy,1,['Mouse_2__2_10__637.npy']
+Mouse_3__6_9__656.npy,1,['Mouse_3__6_9__661.npy']
+Mouse_3__6_9__666.npy,1,['Mouse_3__6_9__677.npy']
+Mouse_1__11_10__350.npy,1,['Mouse_1__11_10__378.npy']
+Mouse_1__11_10__355.npy,1,['Mouse_1__11_10__481.npy']
+Mouse_1__11_10__365.npy,1,['Mouse_1__11_10__620.npy']
+Mouse_3__6_9__510.npy,1,['Mouse_3__6_9__629.npy']
+Mouse_3__6_9__533.npy,1,['Mouse_3__6_9__558.npy']
+Mouse_3__6_9__552.npy,1,['Mouse_3__6_9__620.npy']
+Mouse_3__6_9__559.npy,1,['Mouse_3__6_9__82.npy']
+Mouse_3__6_9__560.npy,1,['Mouse_3__6_9__649.npy']
+Mouse_3__6_9__566.npy,1,['Mouse_3__6_9__633.npy']
+Mouse_3__6_9__567.npy,1,['Mouse_3__6_9__677.npy']
+Mouse_3__6_9__572.npy,1,['Mouse_3__6_9__579.npy']
+Mouse_3__6_9__573.npy,1,['Mouse_3__6_9__643.npy']
+Mouse_3__6_9__574.npy,1,['Mouse_3__6_9__625.npy']
+Mouse_3__6_9__577.npy,1,['Mouse_3__6_9__643.npy']
+Mouse_2__2_10__545.npy,1,['Mouse_2__2_10__569.npy']
+Mouse_2__2_10__546.npy,1,['Mouse_2__2_10__602.npy']
+Mouse_1__11_10__630.npy,1,['Mouse_1__11_10__699.npy']
+Mouse_1__11_10__633.npy,1,['Mouse_1__11_10__681.npy']
+Mouse_1__11_10__638.npy,1,['Mouse_1__11_10__643.npy']
+Mouse_1__11_10__65.npy,1,['Mouse_1__11_10__81.npy']
+Mouse_1__11_10__654.npy,1,['Mouse_1__11_10__721.npy']
+Mouse_1__11_10__659.npy,1,['Mouse_1__11_10__735.npy']
+Mouse_1__11_10__668.npy,1,['Mouse_1__11_10__733.npy']
+Mouse_2__2_10__42.npy,1,['Mouse_2__2_10__43.npy']
+Mouse_2__2_10__425.npy,1,['Mouse_2__2_10__481.npy']
+Mouse_2__2_10__427.npy,1,['Mouse_2__2_10__497.npy']
+Mouse_2__2_10__435.npy,1,['Mouse_2__2_10__540.npy']
+Mouse_2__2_10__450.npy,1,['Mouse_2__2_10__458.npy']
+Mouse_3__6_9__631.npy,1,['Mouse_3__6_9__640.npy']
+Mouse_3__6_9__651.npy,1,['Mouse_3__6_9__95.npy']
+Mouse_2__2_10__365.npy,1,['Mouse_2__2_10__574.npy']
+Mouse_1__11_10__264.npy,1,['Mouse_1__11_10__53.npy']
+Mouse_1__11_10__265.npy,1,['Mouse_1__11_10__33.npy']
+Mouse_1__11_10__266.npy,1,['Mouse_1__11_10__554.npy']
+Mouse_1__11_10__270.npy,1,['Mouse_1__11_10__488.npy']
+Mouse_1__11_10__272.npy,1,['Mouse_1__11_10__676.npy']
+Mouse_1__11_10__368.npy,1,['Mouse_1__11_10__546.npy']
+Mouse_1__11_10__37.npy,1,['Mouse_1__11_10__607.npy']
+Mouse_1__11_10__377.npy,1,['Mouse_1__11_10__507.npy']
+Mouse_1__11_10__382.npy,1,['Mouse_1__11_10__393.npy']
+Mouse_1__11_10__32.npy,1,['Mouse_1__11_10__36.npy']
+Mouse_1__11_10__332.npy,1,['Mouse_1__11_10__587.npy']
+Mouse_3__6_9__593.npy,1,['Mouse_3__6_9__678.npy']
+Mouse_3__6_9__615.npy,1,['Mouse_3__6_9__92.npy']
+Mouse_3__6_9__618.npy,1,['Mouse_3__6_9__630.npy']
+Mouse_3__6_9__620.npy,1,['Mouse_3__6_9__629.npy']
+Mouse_3__6_9__733.npy,1,['Mouse_3__6_9__736.npy']
+Mouse_1__11_10__341.npy,1,['Mouse_1__11_10__387.npy']
+Mouse_3__6_9__697.npy,1,['Mouse_3__6_9__728.npy']
+Mouse_3__6_9__699.npy,1,['Mouse_3__6_9__725.npy']
+Mouse_3__6_9__70.npy,1,['Mouse_3__6_9__82.npy']
+Mouse_2__2_10__458.npy,1,['Mouse_2__2_10__534.npy']
+Mouse_2__2_10__46.npy,1,['Mouse_2__2_10__70.npy']
+Mouse_2__2_10__461.npy,1,['Mouse_2__2_10__526.npy']
+Mouse_2__2_10__466.npy,1,['Mouse_2__2_10__473.npy']
+Mouse_2__2_10__47.npy,1,['Mouse_2__2_10__51.npy']
+Mouse_2__2_10__482.npy,1,['Mouse_2__2_10__497.npy']
+Mouse_2__2_10__497.npy,1,['Mouse_2__2_10__589.npy']
+Mouse_2__2_10__333.npy,1,['Mouse_2__2_10__99.npy']
+Mouse_2__2_10__344.npy,1,['Mouse_2__2_10__612.npy']
+Mouse_2__2_10__355.npy,1,['Mouse_2__2_10__560.npy']
+Mouse_2__2_10__360.npy,1,['Mouse_2__2_10__372.npy']
+Mouse_4__3_5__153.npy,1,['Mouse_4__3_5__48.npy']
+Mouse_4__3_5__16.npy,1,['Mouse_4__3_5__600.npy']
+Mouse_1__11_10__225.npy,1,['Mouse_1__11_10__51.npy']
+Mouse_1__11_10__228.npy,1,['Mouse_1__11_10__668.npy']
+Mouse_1__11_10__275.npy,1,['Mouse_1__11_10__347.npy']
+Mouse_1__11_10__277.npy,1,['Mouse_1__11_10__315.npy']
+Mouse_1__11_10__28.npy,1,['Mouse_1__11_10__57.npy']
+Mouse_1__11_10__289.npy,1,['Mouse_1__11_10__297.npy']
+Mouse_1__11_10__311.npy,1,['Mouse_1__11_10__425.npy']
+Mouse_3__6_9__715.npy,1,['Mouse_3__6_9__718.npy']
+Mouse_3__6_9__720.npy,1,['Mouse_3__6_9__734.npy']
+Mouse_3__6_9__721.npy,1,['Mouse_3__6_9__725.npy']
+Mouse_3__6_9__723.npy,1,['Mouse_3__6_9__734.npy']
+Mouse_3__6_9__724.npy,1,['Mouse_3__6_9__739.npy']
+Mouse_3__6_9__727.npy,1,['Mouse_3__6_9__728.npy']
+Mouse_3__6_9__729.npy,1,['Mouse_3__6_9__730.npy']
+Mouse_1__11_10__257.npy,1,['Mouse_1__11_10__34.npy']
+Mouse_4__3_5__166.npy,1,['Mouse_4__3_5__546.npy']
+Mouse_4__3_5__190.npy,1,['Mouse_4__3_5__233.npy']
+Mouse_4__3_5__191.npy,1,['Mouse_4__3_5__198.npy']
+Mouse_4__3_5__192.npy,1,['Mouse_4__3_5__237.npy']
+Mouse_4__3_5__196.npy,1,['Mouse_4__3_5__227.npy']
+Mouse_3__6_9__737.npy,1,['Mouse_3__6_9__739.npy']
+Mouse_3__6_9__738.npy,1,['Mouse_3__6_9__739.npy']
+Mouse_3__6_9__74.npy,1,['Mouse_3__6_9__95.npy']
+Mouse_3__6_9__87.npy,1,['Mouse_3__6_9__92.npy']
+Mouse_4__3_5__113.npy,1,['Mouse_4__3_5__42.npy']
+Mouse_4__3_5__128.npy,1,['Mouse_4__3_5__158.npy']
+Mouse_4__3_5__145.npy,1,['Mouse_4__3_5__302.npy']
+Mouse_4__3_5__146.npy,1,['Mouse_4__3_5__273.npy']
+Mouse_4__3_5__149.npy,1,['Mouse_4__3_5__291.npy']
+Mouse_4__3_5__151.npy,1,['Mouse_4__3_5__47.npy']
+Mouse_1__11_10__246.npy,1,['Mouse_1__11_10__34.npy']
+Mouse_1__11_10__25.npy,1,['Mouse_1__11_10__29.npy']
+Mouse_2__2_10__372.npy,1,['Mouse_2__2_10__390.npy']
+Mouse_2__2_10__373.npy,1,['Mouse_2__2_10__388.npy']
+Mouse_2__2_10__387.npy,1,['Mouse_2__2_10__432.npy']
+Mouse_2__2_10__391.npy,1,['Mouse_2__2_10__414.npy']
+Mouse_2__2_10__400.npy,1,['Mouse_2__2_10__434.npy']
+Mouse_2__2_10__404.npy,1,['Mouse_2__2_10__448.npy']
+Mouse_2__2_10__406.npy,1,['Mouse_2__2_10__449.npy']
+Mouse_2__2_10__414.npy,1,['Mouse_2__2_10__569.npy']
+Mouse_2__2_10__253.npy,1,['Mouse_2__2_10__593.npy']
+Mouse_2__2_10__255.npy,1,['Mouse_2__2_10__388.npy']
+Mouse_2__2_10__256.npy,1,['Mouse_2__2_10__276.npy']
+Mouse_2__2_10__260.npy,1,['Mouse_2__2_10__387.npy']
+Mouse_2__2_10__263.npy,1,['Mouse_2__2_10__461.npy']
+Mouse_1__11_10__254.npy,1,['Mouse_1__11_10__43.npy']
+Mouse_4__3_5__197.npy,1,['Mouse_4__3_5__209.npy']
+Mouse_4__3_5__20.npy,1,['Mouse_4__3_5__599.npy']
+Mouse_4__3_5__22.npy,1,['Mouse_4__3_5__373.npy']
+Mouse_4__3_5__222.npy,1,['Mouse_4__3_5__225.npy']
+Mouse_4__3_5__227.npy,1,['Mouse_4__3_5__593.npy']
+Mouse_4__3_5__236.npy,1,['Mouse_4__3_5__427.npy']
+Mouse_4__3_5__246.npy,1,['Mouse_4__3_5__617.npy']
+Mouse_4__3_5__247.npy,1,['Mouse_4__3_5__42.npy']
+Mouse_4__3_5__252.npy,1,['Mouse_4__3_5__531.npy']
+Mouse_4__3_5__256.npy,1,['Mouse_4__3_5__319.npy']
+Mouse_4__3_5__263.npy,1,['Mouse_4__3_5__338.npy']
+Mouse_4__3_5__27.npy,1,['Mouse_4__3_5__276.npy']
+Mouse_4__3_5__291.npy,1,['Mouse_4__3_5__345.npy']
+Mouse_4__3_5__304.npy,1,['Mouse_4__3_5__414.npy']
+Mouse_1__11_10__23.npy,1,['Mouse_1__11_10__28.npy']
+Mouse_1__11_10__243.npy,1,['Mouse_1__11_10__532.npy']
+Mouse_4__3_5__410.npy,1,['Mouse_4__3_5__51.npy']
+Mouse_4__3_5__412.npy,1,['Mouse_4__3_5__612.npy']
+Mouse_1__11_10__183.npy,1,['Mouse_1__11_10__225.npy']
+Mouse_1__11_10__184.npy,1,['Mouse_1__11_10__190.npy']
+Mouse_1__11_10__19.npy,1,['Mouse_1__11_10__22.npy']
+Mouse_4__3_5__314.npy,1,['Mouse_4__3_5__435.npy']
+Mouse_4__3_5__318.npy,1,['Mouse_4__3_5__556.npy']
+Mouse_4__3_5__333.npy,1,['Mouse_4__3_5__377.npy']
+Mouse_4__3_5__334.npy,1,['Mouse_4__3_5__658.npy']
+Mouse_4__3_5__337.npy,1,['Mouse_4__3_5__86.npy']
+Mouse_4__3_5__338.npy,1,['Mouse_4__3_5__461.npy']
+Mouse_4__3_5__345.npy,1,['Mouse_4__3_5__418.npy']
+Mouse_4__3_5__361.npy,1,['Mouse_4__3_5__62.npy']
+Mouse_4__3_5__372.npy,1,['Mouse_4__3_5__390.npy']
+Mouse_4__3_5__374.npy,1,['Mouse_4__3_5__42.npy']
+Mouse_4__3_5__375.npy,1,['Mouse_4__3_5__400.npy']
+Mouse_4__3_5__393.npy,1,['Mouse_4__3_5__439.npy']
+Mouse_2__2_10__276.npy,1,['Mouse_2__2_10__643.npy']
+Mouse_2__2_10__277.npy,1,['Mouse_2__2_10__446.npy']
+Mouse_2__2_10__296.npy,1,['Mouse_2__2_10__609.npy']
+Mouse_2__2_10__298.npy,1,['Mouse_2__2_10__372.npy']
+Mouse_2__2_10__304.npy,1,['Mouse_2__2_10__414.npy']
+Mouse_2__2_10__318.npy,1,['Mouse_2__2_10__593.npy']
+Mouse_2__2_10__327.npy,1,['Mouse_2__2_10__615.npy']
+Mouse_2__2_10__329.npy,1,['Mouse_2__2_10__552.npy']
+Mouse_2__2_10__143.npy,1,['Mouse_2__2_10__170.npy']
+Mouse_2__2_10__144.npy,1,['Mouse_2__2_10__166.npy']
+Mouse_2__2_10__146.npy,1,['Mouse_2__2_10__193.npy']
+Mouse_2__2_10__157.npy,1,['Mouse_2__2_10__230.npy']
+Mouse_2__2_10__159.npy,1,['Mouse_2__2_10__170.npy']
+Mouse_4__3_5__404.npy,1,['Mouse_4__3_5__448.npy']
+Mouse_4__3_5__406.npy,1,['Mouse_4__3_5__467.npy']
+Mouse_4__3_5__496.npy,1,['Mouse_4__3_5__574.npy']
+Mouse_4__3_5__499.npy,1,['Mouse_4__3_5__577.npy']
+Mouse_4__3_5__504.npy,1,['Mouse_4__3_5__552.npy']
+Mouse_1__11_10__20.npy,1,['Mouse_1__11_10__260.npy']
+Mouse_1__11_10__206.npy,1,['Mouse_1__11_10__81.npy']
+Mouse_1__11_10__209.npy,1,['Mouse_1__11_10__222.npy']
+Mouse_1__11_10__213.npy,1,['Mouse_1__11_10__34.npy']
+Mouse_1__11_10__222.npy,1,['Mouse_1__11_10__94.npy']
+Mouse_4__3_5__418.npy,1,['Mouse_4__3_5__570.npy']
+Mouse_4__3_5__421.npy,1,['Mouse_4__3_5__614.npy']
+Mouse_4__3_5__43.npy,1,['Mouse_4__3_5__620.npy']
+Mouse_4__3_5__434.npy,1,['Mouse_4__3_5__533.npy']
+Mouse_4__3_5__443.npy,1,['Mouse_4__3_5__544.npy']
+Mouse_4__3_5__377.npy,1,['Mouse_4__3_5__642.npy']
+Mouse_4__3_5__387.npy,1,['Mouse_4__3_5__432.npy']
+Mouse_4__3_5__391.npy,1,['Mouse_4__3_5__646.npy']
+Mouse_4__3_5__467.npy,1,['Mouse_4__3_5__9.npy']
+Mouse_4__3_5__47.npy,1,['Mouse_4__3_5__51.npy']
+Mouse_4__3_5__470.npy,1,['Mouse_4__3_5__531.npy']
+Mouse_4__3_5__476.npy,1,['Mouse_4__3_5__481.npy']
+Mouse_2__2_10__233.npy,1,['Mouse_2__2_10__631.npy']
+Mouse_2__2_10__239.npy,1,['Mouse_2__2_10__388.npy']
+Mouse_2__2_10__247.npy,1,['Mouse_2__2_10__374.npy']
+Mouse_2__2_10__248.npy,1,['Mouse_2__2_10__378.npy']
+Mouse_2__2_10__250.npy,1,['Mouse_2__2_10__487.npy']
+Mouse_2__2_10__252.npy,1,['Mouse_2__2_10__531.npy']
+Mouse_2__2_10__214.npy,1,['Mouse_2__2_10__63.npy']
+Mouse_2__2_10__220.npy,1,['Mouse_2__2_10__435.npy']
+Mouse_2__2_10__221.npy,1,['Mouse_2__2_10__449.npy']
+Mouse_4__3_5__486.npy,1,['Mouse_4__3_5__9.npy']
+Mouse_4__3_5__489.npy,1,['Mouse_4__3_5__497.npy']
+Mouse_4__3_5__494.npy,1,['Mouse_4__3_5__593.npy']
+Mouse_2__2_10__705.npy,1,['Mouse_2__2_10__719.npy']
+Mouse_1__11_10__12.npy,1,['Mouse_1__11_10__14.npy']
+Mouse_2__2_10__169.npy,1,['Mouse_2__2_10__374.npy']
+Mouse_2__2_10__170.npy,1,['Mouse_2__2_10__337.npy']
+Mouse_1__11_10__122.npy,1,['Mouse_1__11_10__178.npy']
+Mouse_2__2_10__18.npy,1,['Mouse_2__2_10__646.npy']
+Mouse_1__11_10__104.npy,1,['Mouse_1__11_10__206.npy']
+Mouse_1__11_10__102.npy,1,['Mouse_1__11_10__254.npy']
+Mouse_4__3_5__716.npy,1,['Mouse_4__3_5__718.npy']
+Mouse_1__11_10__155.npy,1,['Mouse_1__11_10__23.npy']
+Mouse_4__3_5__539.npy,1,['Mouse_4__3_5__642.npy']
+Mouse_4__3_5__546.npy,1,['Mouse_4__3_5__602.npy']
+Mouse_2__2_10__232.npy,1,['Mouse_2__2_10__375.npy']
+Mouse_2__2_10__110.npy,1,['Mouse_2__2_10__133.npy']
+Mouse_2__2_10__121.npy,1,['Mouse_2__2_10__214.npy']
+Mouse_2__2_10__128.npy,1,['Mouse_2__2_10__643.npy']
+Mouse_3__6_9__162.npy,1,['Mouse_3__6_9__406.npy']
+Mouse_3__6_9__163.npy,1,['Mouse_3__6_9__172.npy']
+Mouse_3__6_9__166.npy,1,['Mouse_3__6_9__263.npy']
+Mouse_3__6_9__169.npy,1,['Mouse_3__6_9__494.npy']
+Mouse_3__6_9__172.npy,1,['Mouse_3__6_9__462.npy']
+Mouse_1__11_10__530.npy,1,['Mouse_1__11_10__607.npy']
+Mouse_1__11_10__533.npy,1,['Mouse_1__11_10__656.npy']
+Mouse_1__11_10__539.npy,1,['Mouse_1__11_10__738.npy']
+Mouse_1__11_10__543.npy,1,['Mouse_1__11_10__625.npy']
+Mouse_1__11_10__546.npy,1,['Mouse_1__11_10__732.npy']
+Mouse_1__11_10__56.npy,1,['Mouse_1__11_10__97.npy']
+Mouse_2__2_10__697.npy,1,['Mouse_2__2_10__707.npy']
+Mouse_2__2_10__698.npy,1,['Mouse_2__2_10__703.npy']
+Mouse_2__2_10__70.npy,1,['Mouse_2__2_10__77.npy']
+Mouse_2__2_10__700.npy,1,['Mouse_2__2_10__713.npy']
+Mouse_2__2_10__704.npy,1,['Mouse_2__2_10__709.npy']

@@ -1,0 +1,35 @@
+[project]
+name = "venv"
+version = "0.1.0"
+description = "Basic Python environment"
+requires-python = ">=3.10,<3.13"
+
+dependencies = [
+    # Basic Python tools
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "ipykernel",
+    "ipywidgets",    
+    "requests",
+    "seaborn",
+    "scikit-learn",
+    "umap-learn",
+    "dadapy==0.3.3", # for clustering and finding the labels
+    # Web framework
+    "django>=5.2.0",
+    # Visualization
+    "plotly>=5.17.0",
+    # Video processing
+    "opencv-python>=4.8.0",
+    "imageio>=2.37.0",  # For video conversion
+    "imageio-ffmpeg>=0.6.0",  # FFmpeg backend for browser-compatible H.264 encoding
+    "Pillow>=10.0.0",  # For image 
+    "scikit-image",
+]
+
+# Usage:
+# uv venv env_name
+# MAKE SURE TO REPLACE THE ENV NAME IN THE COMMAND AND ON TOP OF THIS FILE
+# source env_name/bin/activate
+# uv sync --active
