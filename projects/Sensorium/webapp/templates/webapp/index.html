@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensorium Webapp</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'webapp/css/style.css' %}">
+</head>
+<body>
+    <div class="container">
+        <!-- Top Section: Mouse ID Dropdown (Centered) -->
+        <div class="top-controls">
+            <div class="mouse-selector">
+                <label for="mouse-id-select">MOUSE ID DROPDOWN:</label>
+                <select id="mouse-id-select" class="form-control">
+                    <option value="">-- Select a mouse --</option>
+                    {% for mouse_id in available_mice %}
+                    <option value="{{ mouse_id }}" {% if mouse_id == default_mouse %}selected{% endif %}>{{ mouse_id }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </div>
+
+        <!-- Top Section: Three Columns (Video Player, 3D Plot, Metadata) -->
+        <div class="top-section">
+            <!-- Left Column: Video Player -->
+            <div class="top-column video-column">
+                <label for="video-select">REPRESENTATIVE VIDEO DROPDOWN:</label>
+                <select id="video-select" class="form-control" disabled>
+                    <option value="">-- Select a video --</option>
+                </select>
+                <div id="video-label-container" class="video-label"></div>
+                <div id="video-player-container" class="video-player-box">
+                    <div class="video-placeholder">Please select a mouse and video</div>
+                </div>
+            </div>
+
+            <!-- Middle Column: 3D Plot -->
+            <div class="top-column plot-column">
+                <label>CELL MOTOR COORDINATES</label>
+                <div id="cell-motor-3d-plot" class="plot-box">
+                    <div class="plot-placeholder">Loading 3D plot...</div>
+                </div>
+            </div>
+
+            <!-- Right Column: Metadata -->
+            <div class="top-column metadata-column">
+                <label>ADDITIONAL METADATA</label>
+                <div id="metadata-box" class="metadata-content">
+                    <p>No metadata available</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 1: NEURON RESPONSES -->
+        <div class="data-section">
+            <h2 class="section-title">NEURON RESPONSES</h2>
+            <div class="neuron-selector">
+                <label for="neuron-select">NEURON DROPDOWN:</label>
+                <select id="neuron-select" class="form-control" disabled>
+                    <option value="">-- Select a neuron --</option>
+                </select>
+            </div>
+            <div class="data-grid-container" id="neuron-responses-container">
+                <div class="data-grid" id="neuron-responses-grid">
+                    <!-- Grid will be generated dynamically -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 2: BEHAVIOR -->
+        <div class="data-section">
+            <h2 class="section-title">BEHAVIOR</h2>
+            <div class="data-grid-container" id="behavior-container">
+                <div class="data-grid" id="behavior-grid">
+                    <!-- Grid will be generated dynamically -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 3: PUPIL CENTER -->
+        <div class="data-section">
+            <h2 class="section-title">PUPIL CENTER</h2>
+            <div class="data-grid-container" id="pupil-center-container">
+                <div class="data-grid" id="pupil-center-grid">
+                    <!-- Grid will be generated dynamically -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{% static 'webapp/js/plotting.js' %}"></script>
+    <script src="{% static 'webapp/js/main.js' %}"></script>
+    <script>
+        // Initialize with default values
+        const DEFAULT_MOUSE = "{{ default_mouse|default:'' }}";
+        const DEFAULT_VIDEO = "{{ default_video|default:'' }}";
+        const DEFAULT_NEURON = {{ default_neuron|default:0 }};
+        
+        // Initialize app when DOM is ready
+        document.addEventListener('DOMContentLoaded', function() {
+            if (DEFAULT_MOUSE) {
+                // If we have a default video, initialize fully, otherwise just load videos
+                if (DEFAULT_VIDEO) {
+                    initializeApp(DEFAULT_MOUSE, DEFAULT_VIDEO, DEFAULT_NEURON);
+                } else {
+                    // Just load videos dropdown
+                    loadVideos(DEFAULT_MOUSE);
+                    load3DPlot(DEFAULT_MOUSE);
+                }
+            }
+        });
+    </script>
+</body>
+</html>

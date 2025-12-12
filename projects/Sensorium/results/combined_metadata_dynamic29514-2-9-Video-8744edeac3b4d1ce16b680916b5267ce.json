@@ -1,0 +1,3050 @@
+{
+    "0": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "1": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "3": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "4": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "20",
+            "50",
+            "162",
+            "260",
+            "355",
+            "481",
+            "591",
+            "671",
+            "685"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "6": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "10": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "12": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "14",
+            "23",
+            "28",
+            "57",
+            "155",
+            "316",
+            "409",
+            "589",
+            "725"
+        ],
+        "video_valid_frames": 240,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 75
+    },
+    "16": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "18": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "21": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "26": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "29": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "25",
+            "124",
+            "187",
+            "271",
+            "500",
+            "524",
+            "543",
+            "624",
+            "631"
+        ],
+        "video_valid_frames": 240,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 75
+    },
+    "30": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "31": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "35": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "39": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "41": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "42": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "44": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "46": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "47": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "48": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "49": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "54": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "61": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "62": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "64": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "66": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "67": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "69": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "70": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "71": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "72": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "74": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "79",
+            "114",
+            "116",
+            "227",
+            "231",
+            "298",
+            "415",
+            "551",
+            "640"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "75": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "78": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "80": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "82": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "83": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "85": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "86": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "87": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "88": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "92": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "93": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "96": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "98": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "99": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "100": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "103": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "105": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "106": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "107": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "108": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "110": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "111": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "113": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "115": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "118": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "119": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "120": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "121": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "125": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "129": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "130": {
+        "number_equivalent_videos": 8,
+        "equivalent_videos": [
+            "40",
+            "131",
+            "150",
+            "176",
+            "268",
+            "290",
+            "547",
+            "669"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "132": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "133": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "140": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "141": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "142": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "143": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "144": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "145": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "147": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "149": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "153": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "154": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "156": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "157": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "159": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "164": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "168": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "58",
+            "221",
+            "413",
+            "436",
+            "555",
+            "601",
+            "608",
+            "638",
+            "662"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "170": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "171": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "174": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "179": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "182": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "186": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "188": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "191": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "192": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "194": {
+        "number_equivalent_videos": 8,
+        "equivalent_videos": [
+            "7",
+            "53",
+            "84",
+            "226",
+            "264",
+            "286",
+            "323",
+            "360"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "195": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "200": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "202": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "203": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "204": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "207": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "208": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "212": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "214": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "216": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "217": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "223": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "229": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "230": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "232": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "233": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "19",
+            "22",
+            "158",
+            "374",
+            "422",
+            "575",
+            "604",
+            "711",
+            "718"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "234": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "235": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "237": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "238": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "240": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "243": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "148",
+            "169",
+            "189",
+            "211",
+            "302",
+            "502",
+            "532",
+            "658",
+            "734"
+        ],
+        "video_valid_frames": 315,
+        "same_valid_responses": true,
+        "incorrect_valid_responses": 0
+    },
+    "244": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "246": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "34",
+            "213",
+            "257",
+            "350",
+            "378",
+            "423",
+            "466",
+            "611",
+            "704"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "247": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "248": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "249": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "251": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "254": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "43",
+            "102",
+            "193",
+            "359",
+            "424",
+            "541",
+            "578",
+            "594",
+            "719"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "256": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "259": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "261": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "262": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "267": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "269": {
+        "number_equivalent_videos": 8,
+        "equivalent_videos": [
+            "128",
+            "137",
+            "224",
+            "272",
+            "557",
+            "559",
+            "602",
+            "684"
+        ],
+        "video_valid_frames": 315,
+        "same_valid_responses": true,
+        "incorrect_valid_responses": 0
+    },
+    "270": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "68",
+            "112",
+            "136",
+            "138",
+            "292",
+            "331",
+            "336",
+            "488",
+            "510"
+        ],
+        "video_valid_frames": 315,
+        "same_valid_responses": true,
+        "incorrect_valid_responses": 0
+    },
+    "273": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "276": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "94",
+            "198",
+            "209",
+            "222",
+            "368",
+            "479",
+            "518",
+            "546",
+            "731"
+        ],
+        "video_valid_frames": 240,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 75
+    },
+    "279": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "280": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "281": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "282": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "288": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "291": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "294": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "295": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "296": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "299": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "300": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "303": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "304": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "305": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "306": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "307": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "308": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "309": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "310": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "313": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "319": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "320": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "321": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "322": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "325": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "326": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "327": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "329": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "330": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "333": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "335": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "338": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "339": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "340": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "343": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "345": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "346": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "351": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "352": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "353": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "354": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "356": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "357": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "358": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "361": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "362": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "363": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "369": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "370": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "372": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "373": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "376": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "379": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "380": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "381": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "384": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "385": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "389": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "390": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "392": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "393": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "9",
+            "59",
+            "151",
+            "163",
+            "245",
+            "293",
+            "382",
+            "590",
+            "694"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "394": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "5",
+            "51",
+            "135",
+            "183",
+            "225",
+            "285",
+            "287",
+            "618",
+            "688"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "395": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "396": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "397": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "398": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "399": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "400": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "401": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "403": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "405": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "406": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "407": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "408": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "411": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "412": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "414": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "416": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "417": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "418": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "419": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "420": {
+        "number_equivalent_videos": 8,
+        "equivalent_videos": [
+            "2",
+            "239",
+            "277",
+            "314",
+            "315",
+            "439",
+            "581",
+            "609"
+        ],
+        "video_valid_frames": 315,
+        "same_valid_responses": true,
+        "incorrect_valid_responses": 0
+    },
+    "421": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "427": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "430": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "432": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "433": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "434": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "435": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "437": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "443": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "446": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "448": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "449": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "452": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "454": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "455": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "456": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "457": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "8",
+            "65",
+            "81",
+            "104",
+            "206",
+            "274",
+            "341",
+            "387",
+            "706"
+        ],
+        "video_valid_frames": 240,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 75
+    },
+    "458": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "459": {
+        "number_equivalent_videos": 8,
+        "equivalent_videos": [
+            "11",
+            "464",
+            "522",
+            "562",
+            "564",
+            "625",
+            "629",
+            "698"
+        ],
+        "video_valid_frames": 240,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 75
+    },
+    "460": {
+        "number_equivalent_videos": 8,
+        "equivalent_videos": [
+            "13",
+            "90",
+            "146",
+            "175",
+            "482",
+            "664",
+            "686",
+            "695"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "461": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "462": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "463": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "465": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "467": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "469": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "470": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "471": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "473": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "474": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "476": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "478": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "480": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "483": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "484": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "485": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "490": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "491": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "492": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "493": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "196",
+            "215",
+            "220",
+            "252",
+            "337",
+            "504",
+            "539",
+            "645",
+            "737"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "495": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "496": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "498": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "501": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "505": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "506": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "507": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "33",
+            "63",
+            "122",
+            "139",
+            "178",
+            "184",
+            "190",
+            "265",
+            "377"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "508": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "509": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "511": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "512": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "514": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "515": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "516": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "218",
+            "263",
+            "349",
+            "364",
+            "404",
+            "494",
+            "533",
+            "598",
+            "655"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "517": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "520": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "525": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "527": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "528": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "529": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "152",
+            "201",
+            "219",
+            "371",
+            "428",
+            "487",
+            "579",
+            "637",
+            "642"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "530": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "37",
+            "123",
+            "167",
+            "334",
+            "348",
+            "375",
+            "489",
+            "606",
+            "641"
+        ],
+        "video_valid_frames": 240,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 75
+    },
+    "531": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "535": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "536": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "537": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "540": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "52",
+            "289",
+            "297",
+            "318",
+            "534",
+            "587",
+            "622",
+            "628",
+            "716"
+        ],
+        "video_valid_frames": 240,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 75
+    },
+    "542": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "545": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "548": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "549": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "550": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "552": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "17",
+            "73",
+            "173",
+            "197",
+            "301",
+            "429",
+            "544",
+            "592",
+            "649"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "553": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "554": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "27",
+            "32",
+            "36",
+            "160",
+            "165",
+            "177",
+            "236",
+            "266",
+            "447"
+        ],
+        "video_valid_frames": 240,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 75
+    },
+    "556": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "558": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "560": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "561": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "563": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "566": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "567": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "568": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "569": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "570": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "571": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "572": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "574": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "576": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "577": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "580": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "582": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "583": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "584": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "585": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "586": {
+        "number_equivalent_videos": 59,
+        "equivalent_videos": [
+            "15",
+            "24",
+            "38",
+            "45",
+            "55",
+            "56",
+            "76",
+            "91",
+            "97",
+            "117",
+            "126",
+            "127",
+            "161",
+            "166",
+            "172",
+            "180",
+            "181",
+            "185",
+            "241",
+            "250",
+            "253",
+            "255",
+            "278",
+            "283",
+            "312",
+            "317",
+            "328",
+            "332",
+            "344",
+            "366",
+            "367",
+            "386",
+            "388",
+            "391",
+            "402",
+            "410",
+            "440",
+            "441",
+            "444",
+            "472",
+            "477",
+            "497",
+            "503",
+            "513",
+            "519",
+            "523",
+            "526",
+            "538",
+            "573",
+            "595",
+            "607",
+            "614",
+            "668",
+            "673",
+            "674",
+            "715",
+            "717",
+            "722",
+            "726"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "588": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "596": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "597": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "599": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "600": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "77",
+            "89",
+            "242",
+            "453",
+            "468",
+            "486",
+            "565",
+            "610",
+            "683"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "603": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "605": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "612": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "613": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "615": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "616": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "617": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "620": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "621": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "623": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "626": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "311",
+            "324",
+            "425",
+            "445",
+            "475",
+            "632",
+            "653",
+            "680",
+            "720"
+        ],
+        "video_valid_frames": 315,
+        "same_valid_responses": true,
+        "incorrect_valid_responses": 0
+    },
+    "627": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "630": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "633": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "634": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "635": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "636": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "639": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "95",
+            "101",
+            "210",
+            "228",
+            "284",
+            "342",
+            "383",
+            "667",
+            "732"
+        ],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "643": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "644": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "646": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "647": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "648": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "650": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "651": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "652": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "654": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "656": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "657": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "659": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "660": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "661": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "663": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "665": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "666": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "670": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "672": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "676": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "677": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "678": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "679": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "681": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "682": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "687": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "689": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "690": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "692": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "693": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "696": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "697": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "699": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "701": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "702": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "703": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "705": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "707": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "708": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "709": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "710": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "712": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "713": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "721": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "723": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "727": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "729": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "730": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "733": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "735": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    },
+    "736": {
+        "number_equivalent_videos": 9,
+        "equivalent_videos": [
+            "60",
+            "134",
+            "258",
+            "275",
+            "347",
+            "365",
+            "619",
+            "700",
+            "724"
+        ],
+        "video_valid_frames": 315,
+        "same_valid_responses": true,
+        "incorrect_valid_responses": 0
+    },
+    "738": {
+        "number_equivalent_videos": 0,
+        "equivalent_videos": [],
+        "video_valid_frames": 300,
+        "same_valid_responses": false,
+        "incorrect_valid_responses": 15
+    }
+}
